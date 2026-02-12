@@ -1,0 +1,7 @@
+git status
+
+git add -A
+
+git commit -m "adição do tpc1"
+
+git push
