@@ -1,0 +1,2926 @@
+WIPO Pearl
+COVID-19 Glossary
+WIPO Pearl
+COVID-19 Glossary
+Foreword
+This glossary contains key concepts related to the COVID-19 pandemic, in the fields
+of biology, medicine, and public health, selected and validated by language experts
+in the PCT Translation Division, WIPO. These concepts are provided in the 10
+languages of the WIPO Pearl terminology database. The definitions were drafted by
+terminologists in the PCT Translation Division, WIPO. Approximately half of the
+entries were worked on in collaboration with the University of Auckland, New
+Zealand. The full contents of this collection of terminology related to COVID-19,
+including contexts to illustrate term usage and meaning, term reliability scores,
+concept maps, a thematically structured glossary, and links to patents held in
+PATENTSCOPE, are available for consultation online in WIPO Pearl.
+3
+List of abbreviations
+AR Arabic
+CHEM Chemical & Materials Technology
+DE German
+(en-US) English, United States
+ENVR Environmental & Safety Engineering
+ES Spanish
+(es-AR) Spanish, Argentina
+(es-CU) Spanish, Cuba
+FR French
+JA Japanese
+KO Korean
+MEDI Medical Science & Technology
+PT Portuguese
+(pt-BR) Portuguese, Brazil
+(pt-PT) Portuguese, Portugal
+RU Russian
+SCIE Natural & Applied Sciences
+(syn.) synonym
+ZH Chinese
+4
+Multilingual Glossary
+A
+acute respiratory distress syndrome
+(syn.) ARDS
+Respiratory disease characterized by the rapid onset
+of widespread inflammation in the lungs.
+MEDI, Pathology
+AR
+
+
+
+
+DE akutes Atemnotsyndrom des Erwachsenen, (syn.) ARDS
+ES síndrome de dificultad respiratoria aguda, (syn.) SDRA
+FR syndrome de détresse respiratoire aiguë, (syn.) SDRA
+JA , (syn.) , ARDS
+KO   , (syn.) ARDS
+PT síndrome do desconforto respiratório agudo, (syn.)
+SDRA
+RU   -, (syn.)
+
+ZH , (syn.) ARDS
+adaptive immunity
+(syn.) acquired immunity
+Immunity acquired during a person's lifetime upon
+exposure to an infectious agent either by previous
+infection or immunization.
+MEDI, Anatomy & physiology
+AR
+
+
+
+(syn.)
+
+
+
+
+
+DE erworbene Immunität, (syn.) adaptive Immunität
+ES inmunidad adquirida, (syn.) inmunidad adaptativa
+FR immunité acquise, (syn.) immunité adaptative
+JA , (syn.) 
+KO  
+PT imunidade adquirida, (syn.) imunidade adaptativa
+RU  , (syn.) 
+
+ZH , (syn.) 
+aerosol
+Suspension of solid or liquid particles in a gas.
+CHEM, Chemical elements & compounds
+AR
+
+
+
+(syn.)
+
+DE Aerosol
+ES aerosol
+FR aérosol
+JA , (syn.) 
+KO 
+PT aerossol
+RU 
+ZH 
+ageusia
+Disorder characterized by loss of taste.
+MEDI, Pathology
+AR
+
+
+
+
+(syn.)
+
+
+
+
+
+
+
+DE Ageusie
+ES ageusia
+FR agueusie
+JA 
+KO 
+PT ageusia
+RU 
+ZH 
+airborne transmission
+(syn.) aerosol transmission
+Mode of indirect transmission of an infectious disease
+that occurs when an infectious agent is carried by dust
+or droplet nuclei suspended in the air in the form of
+aerosols.
+COVID-19 Glossary
+5
+MEDI, Pathology
+AR
+
+
+
+
+
+(syn.)
+
+
+
+
+
+
+
+
+DE Übertragung durch Tröpfchenkerne
+ES transmisión aérea, (syn.) transmisión por aerosoles
+FR transmission par aérosol
+JA , (syn.) 
+KO   , (syn.)  
+PT transmissão por aerossóis
+RU   
+ZH 
+angiotensin-converting enzyme
+(syn.) ACE
+Class of ectoenzymes found in, e.g., the lungs, heart,
+skin, or blood vessels, whose function is to cleave
+circulating peptides, among which angiotensinogen,
+which are then used to regulate specific cell functions.
+SCIE, Biochemistry
+AR
+
+
+
+
+
+DE Angiotensin-konvertierendes Enzym, (syn.) ACE
+ES enzima convertidora de la angiotensina, (syn.) ECA
+FR enzyme de conversion de l'angiotensine, (syn.) ECA
+JA , (syn.) ACE
+KO  , (syn.) ACE
+PT enzima conversora de angiotensina, (syn.) ECA
+RU - , (syn.) 
+(syn.) - , (syn.) 
+ZH , (syn.) ACE
+anosmia
+Disorder characterized by loss of smell.
+MEDI, Pathology
+AR
+
+
+
+
+DE Anosmie
+ES anosmia
+FR anosmie
+JA 
+KO 
+PT anosmia
+RU 
+ZH 
+antibody
+(syn.) immunoglobulin
+Protein produced by B lymphocytes that can recognize
+and neutralize an antigen.
+SCIE, Biology
+AR
+
+
+(syn.)
+
+
+
+
+
+DE Antikörper, (syn.) Immunglobulin
+ES anticuerpo, (syn.) inmunoglobulina
+FR anticorps, (syn.) immunoglobuline
+JA , (syn.) 
+KO 
+PT anticorpo, (syn.) imunoglobulina
+RU , (syn.) 
+ZH , (syn.) 
+antigen
+Particle, typically a protein, which the immune system
+recognizes as foreign.
+SCIE, Biology
+AR
+
+
+
+(
+syn.
+)
+
+
+
+
+DE Antigen
+ES antígeno
+FR antigène
+JA 
+KO 
+PT antígeno
+RU 
+ZH 
+asymptomatic transmission
+COVID-19 Glossary
+6
+Mode of transmission of an infectious disease to
+another person from an infected person who does not
+develop symptoms.
+MEDI, Pathology
+AR
+
+
+
+
+
+DE asymptomatische Übertragung
+ES transmisión asintomática
+FR transmission asymptomatique
+JA 
+KO  
+PT transmissão assintomática
+RU  
+ZH 
+attack rate
+Proportion of people that contract a disease in a
+population initially free of the disease, i.e. during a
+disease outbreak.
+MEDI, Public health & hygiene
+AR
+
+
+DE Befallsrate
+ES tasa de ataque
+FR taux d'attaque
+JA 
+KO 
+PT taxa de ataque
+RU  
+ZH 
+B
+basic reproduction number
+(syn.) basic reproduction ratio, basic reproductive
+ratio, 
+Average number of secondary cases that one case
+produces in a population at risk.
+MEDI, Public health & hygiene
+AR
+
+
+
+DE Basisreproduktionszahl, (syn.) 
+ES número básico de reproducción, (syn.) , tasa de
+contagio, tasa de reproducción
+FR taux de reproduction de base, (syn.) 
+JA , (syn.) 
+KO 
+PT número básico de reprodução, (syn.) 
+RU   , (syn.) 
+ZH , (syn.) 
+biostatistics
+Application of statistical methods and tools to the fields
+of biological sciences and medicine, including study
+design, data collection and analysis, and interpretation
+of findings.
+MEDI, Public health & hygiene
+AR
+
+
+DE Biostatistik
+ES bioestadística
+FR biostatistique
+JA 
+KO 
+PT bioestatística
+RU 
+ZH 
+blood plasma
+(syn.) plasma
+Liquid part of the blood in which red and white blood
+cells and platelets are suspended and which carries
+such blood cells as well as proteins, mineral salts,
+sugars, fats, and hormones throughout the body.
+MEDI, Anatomy & physiology
+AR
+
+
+
+(syn.)
+
+
+
+
+DE Blutplasma
+ES plasma sanguíneo, (syn.) plasma
+FR plasma sanguin, (syn.) plasma
+JA 
+COVID-19 Glossary
+7
+KO 
+PT plasma sanguíneo, (syn.) plasma
+RU  
+ZH 
+C
+case
+Person who is diagnosed as having a disease.
+MEDI, Public health & hygiene
+AR
+
+
+(syn.)
+
+
+DE Fall
+ES caso
+FR cas
+JA 
+KO 
+PT caso
+RU 
+ZH 
+case definition
+Set of criteria used to decide whether a person has
+contracted a specific disease.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+
+DE Falldefinition
+ES definición de caso
+FR définition de cas
+JA 
+KO  
+PT definição de caso
+RU   
+ZH 
+case fatality rate
+(syn.) CFR
+Proportion of people who die of a given disease out of
+all the confirmed cases.
+MEDI, Public health & hygiene
+AR
+
+
+
+
+(syn.)
+
+
+
+DE Fall-Verstorbenen-Anteil
+ES tasa de letalidad
+FR taux de létalité
+JA , (syn.) CFR
+KO , (syn.) 
+PT taxa de letalidade, (syn.) taxa de letalidade dos casos
+RU  
+ZH 
+casual contact
+Person who has been in the proximity of a person
+affected by an infectious disease but does not live with
+or care for the infected person.
+MEDI, Public health & hygiene
+AR
+
+
+DE Kontaktperson der Kategorie II
+ES contacto ocasional
+FR contact occasionnel
+JA 
+KO 
+PT contato casual, (syn.) contacto casual (pt-PT)
+RU  
+ZH 
+chain of infection
+Process in which an infectious agent leaves its
+reservoir or host through a portal of exit, is conveyed
+by a mode of transmission, and enters a susceptible
+host through a portal of entry.
+SCIE, Biology
+AR
+
+
+DE Übertragungskette
+ES cadena de transmission, (syn.) cadena epidemiológica
+FR chaîne de transmission
+JA , (syn.) 
+COVID-19 Glossary
+8
+KO 
+PT cadeia de transmissão
+RU   , (syn.)  
+ZH 
+chloroquine
+Quinoline that is substituted at position 4 by a [5-
+(diethylamino)pentan-2-yl]amino group and at position
+7 by chlorine and is used for the treatment of e.g.
+malaria, lupus erythematosus, and rheumatoid arthritis.
+MEDI, Pharmacology
+AR
+
+
+(syn.)
+
+DE Chloroquin
+ES cloroquina
+FR chloroquine
+JA 
+KO 
+PT cloroquina
+RU 
+ZH 
+close contact
+Person who lives with, cares for, or has direct contact
+with the respiratory secretions or body fluids of, a
+person affected by an infectious disease.
+MEDI, Public health & hygiene
+AR
+
+
+DE Kontaktperson der Kategorie I
+ES contacto cercano
+FR contact étroit
+JA 
+KO 
+PT contato próximo, (syn.) contacto próximo (pt-PT)
+RU  
+ZH 
+cluster
+(syn.) disease cluster
+Aggregation of cases of a disease within a given place
+and time.
+MEDI, Public health & hygiene
+AR
+
+DE Cluster
+ES conglomerado de casos
+FR cluster
+JA 
+KO 
+PT conglomerado
+RU 
+ZH 
+computed tomography
+(syn.) computer-assisted tomography,
+computerized tomography, CT
+Medical imaging technique by which three-dimensional
+images of the body are obtained by directing a beam of
+x-rays at the patient and quickly rotating them around
+the patient's body, producing cross-sectional images
+that are then stacked together by a computed
+tomography scanner.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+DE Computertomographie, CT
+ES tomografía computarizada, (syn.) TC
+FR tomographie assistée par ordinateur, (syn.)
+tomodensitométrie, TDM
+JA 
+KO , (syn.)  , CT
+PT tomografia computadorizada, (syn.) tomografia
+computorizada, TC
+RU  , (syn.) KT
+ZH , (syn.) , 
+
+confirmed case
+Case that is confirmed by a laboratory test.
+COVID-19 Glossary
+9
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+
+
+DE bestätigter Fall
+ES caso confirmado, (syn.) paciente confirmado
+FR cas positif
+JA , (syn.) 
+KO , (syn.)  
+PT caso confirmado
+RU  
+ZH 
+contact
+Person who has been in the proximity of another
+person affected by an infectious disease and who is at
+risk of having contracted this disease.
+MEDI, Public health & hygiene
+AR
+
+DE Kontaktperson
+ES contacto
+FR contact, (syn.) personne contact
+JA 
+KO 
+PT contato, (syn.) contacto (pt-PT)
+RU  
+ZH 
+contact follow-up
+Process of monitoring the contacts of a case for
+symptoms of the disease.
+MEDI, Public health & hygiene
+AR
+
+
+DE Kontaktpersonen-Nachverfolgung
+ES seguimiento de contactos
+FR suivi des contacts
+JA 
+KO  
+PT seguimento de contatos, (syn.) acompanhamento de
+contatos
+RU   
+ZH 
+contact identification
+Process aimed at identifying all contacts of a case by
+asking about the activities of the case and the activities
+and roles of the people around the case since the
+onset of the disease.
+MEDI, Public health & hygiene
+AR
+
+
+DE Identifizierung von Kontaktpersonen
+ES identificación de contactos
+FR identification des contacts
+JA 
+KO  
+PT identificação de contatos, (syn.) identificação de
+contactos (pt-PT)
+RU  , (syn.) 
+ 
+ZH 
+contact tracing
+Process of identification, listing and follow-up of
+contacts.
+MEDI, Public health & hygiene
+AR
+
+
+DE Contact Tracing
+ES rastreo de contactos
+FR traçage des contacts
+JA 
+KO  
+PT rastreamento de contatos, (syn.) rastreamento de
+contactos (pt-PT)
+RU  
+ZH 
+containment
+Strategy adopted by a public body to cut off
+transmission of a disease.
+COVID-19 Glossary
+10
+MEDI, Public health & hygiene
+AR
+
+DE Eindämmung
+ES contención
+FR endiguement
+JA 
+KO 
+PT contenção
+RU 
+ZH 
+convalescent plasma therapy
+Therapeutic treatment whereby the blood plasma
+donated by individuals who have recovered from an
+infectious disease is introduced into the blood of
+people who are suffering from the same disease in
+order to help control the symptoms and limit the
+progression of the disease.
+MEDI, Therapeutics
+AR
+
+
+
+DE Therapie mit Rekonvaleszentenplasma
+ES tratamiento con plasma de convalecientes
+FR utilisation thérapeutique de plasma de convalescents
+JA 
+KO 
+PT terapia com plasma convalescente, (syn.) tratamento
+com plasma convalescente
+RU    
+ZH , (syn.) 
+coronavirus
+(syn.) CoV
+Family of viruses that consist of a core comprising a
+positive-sense single-stranded RNA, an envelope, a
+capsid, and spikes.
+SCIE, Biology
+AR
+
+
+
+(syn.)
+
+
+
+
+
+
+DE Coronavirus
+ES coronavirus, (syn.) CoV
+FR coronavirus, (syn.) CoV
+JA 
+KO 
+PT coronavírus, (syn.) CoV
+RU 
+ZH , (syn.) CoV
+coronavirus disease 2019
+(syn.) COVID-19
+Infectious disease caused by SARS-CoV-2.
+MEDI, Pathology
+AR
+
+
+-
+19
+DE Covid-19
+ES enfermedad por coronavirus 2019, (syn.) covid-19
+FR COVID-19, (syn.) Covid-19, covid-19
+JA , (syn.) COVID-19
+KO -19
+PT doença do coronavírus 2019, (syn.) COVID-19
+RU   2019 , (syn.) COVID-19
+ZH 2019 , (syn.) COVID-19
+cough reflex
+Body's natural response to help clear irritants from the
+airways.
+MEDI, Anatomy & physiology
+AR
+
+
+
+
+
+
+DE Hustenreflex
+ES reflejo tusígeno, (syn.) reflejo de la tos
+FR réflexe tussigène
+JA , (syn.) 
+KO  
+PT reflexo de tosse
+RU  
+ZH 
+cytokine release syndrome
+(syn.) CRS
+COVID-19 Glossary
+11
+Systemic inflammatory response syndrome caused by
+a large and rapid release of cytokines into the blood,
+which may be triggered by different factors, e.g. a viral
+infection or the use of certain drugs in immunotherapy.
+MEDI, Pathology
+AR
+
+
+
+DE Zytokin-Freisetzungssyndrom
+ES síndrome de liberación de citocinas, (syn.) tormenta de
+citocinas
+FR syndrome de libération de cytokines
+JA , (syn.) CRS
+KO   
+PT síndrome de liberação de citocinas
+RU   
+ZH 
+D
+death-to-case ratio
+Number of deaths attributed to a particular disease in a
+specified period divided by the number of new cases of
+the disease identified during the same period.
+MEDI, Public health & hygiene
+AR
+
+
+
+
+
+DE Sterblichkeitsrate
+ES razón de muertes por casos nuevos
+FR taux de mortalité
+JA 
+KO      
+PT taxa de mortalidade
+RU c   
+ZH 
+direct contact transmission
+Mode of transmission that occurs when an infectious
+agent is transferred from a reservoir to a host by direct
+contact or droplet transmission.
+MEDI, Pathology
+AR
+
+
+DE direkte Kontaktübertagung, (syn.) direkte Übertragung
+ES transmisión directa
+FR transmission par contact direct
+JA 
+KO  
+PT transmissão direta
+RU    
+ZH 
+disease
+Abnormal condition that has a negative impact on the
+structure or function of all or part of an organism,
+generally associated with certain signs and symptoms.
+MEDI, Pathology
+AR
+
+
+(syn.)
+
+DE Krankheit
+ES enfermedad
+FR maladie
+JA , (syn.) 
+KO , (syn.) 
+PT doença
+RU 
+ZH 
+disease outbreak
+Cluster of a disease with a common cause and an
+overall number of cases that is inferior to that of an
+epidemic.
+MEDI, Public health & hygiene
+AR
+
+
+DE Ausbruch
+ES brote epidémico
+FR flambée épidémique
+JA , (syn.) 
+KO  
+PT surto
+RU  
+ZH 
+COVID-19 Glossary
+12
+deoxyribonucleic acid
+(syn.) DNA
+Double-stranded nucleic acid whose nucleotides
+consist of a backbone made up by a modified sugar,
+called deoxyribose, a nitrogenous base, i.e. adenine,
+guanine, cytosine, and thymine, and a phosphate
+group.
+SCIE, Biochemistry
+AR
+
+
+
+
+
+(syn.)
+
+DE Desoxyribonukleinsäure, (syn.) Desoxyribonucleinsäure,
+DNA, DNS
+ES ácido desoxirribonucleico, (syn.) ADN
+FR acide désoxyribonucléique, (syn.) ADN
+JA , (syn.) DNA
+KO , (syn.) DNA
+PT ácido desoxirribonucleico, (syn.) ADN
+RU  , (syn.) 
+ZH , (syn.) DNA
+drive-through testing
+Method of performing swab tests on people whilst they
+remain in their vehicles.
+MEDI, Medical care
+AR
+
+
+
+DE Drive-in für Corona-Test
+ES prueba desde el auto
+FR test de dépistage en voiture
+JA 
+KO  
+PT rastreio drive-through
+RU    «   »
+ZH 
+droplet nucleus
+Dried residue, approximately  5 m in diameter, which
+results from the evaporation of droplets coughed or
+sneezed into the air.
+MEDI, Anatomy & physiology
+AR
+
+
+DE Tröpfchenkern
+ES núcleo goticular
+FR noyau de gouttelettes
+JA 
+KO 
+PT núcleo goticular
+RU  
+ZH 
+droplet transmission
+(syn.) droplet spread
+Mode of direct transmission of an infectious disease
+that occurs when a person is in the proximity of an
+infected person who has respiratory symptoms, e.g.,
+via coughing, sneezing, breathing, or talking.
+MEDI, Pathology
+AR
+
+
+
+
+DE Tröpchenübertragung
+ES transmisión por gotículas
+FR transmission par gouttelettes
+JA , (syn.) 
+KO 
+PT transmissão por gotículas respiratórias, (syn.)
+transmissão por gotículas
+RU -  
+ZH 
+E
+elimination
+(syn.) suppression, elimination strategy
+Strategy adopted by a public body to reduce to zero
+the incidence of a disease in a given geographical
+area.
+MEDI, Public health & hygiene
+COVID-19 Glossary
+13
+AR
+
+
+
+
+
+(syn.)
+
+
+
+
+
+
+
+
+DE Tilgung
+ES eliminación
+FR élimination
+JA 
+KO  
+PT eliminação
+RU c 
+ZH , (syn.) 
+endemic disease
+Disease for which there are as many cases as would
+be expected in a given population at a given time.
+MEDI, Public health & hygiene Public health & hygiene
+AR
+
+
+DE Endemie
+ES endemia
+FR endémie
+JA 
+KO 
+PT doença endêmica, (syn.) doença endémica (pt-PT)
+RU  
+ZH 
+environmental cleaning
+Set of actions and processes, including cleaning,
+disinfecting and monitoring, implemented in places at
+risk of spread of an infectious agent through
+contaminated objects.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+
+DE Krankenhaushygiene
+ES limpieza ambiental
+FR nettoyage de l'environnement
+JA 
+KO 
+PT limpeza ambiental
+RU  
+ZH 
+epidemic curve
+Graphical representation of the incidence of a disease
+or other health-related event plotted over time.
+MEDI, Public health & hygiene
+AR
+
+
+DE epidemische Kurve
+ES curva epidemiológica
+FR courbe épidémique
+JA 
+KO 
+PT curva epidêmica, (syn.) curva epidémica (pt-PT)
+RU  
+ZH 
+epidemic disease
+Disease for which there are many more cases than
+would be expected at a given time in a given
+population and which can be ascribed to the same
+cause.
+MEDI, Public health & hygiene
+AR
+
+
+DE Epidemie
+ES epidemia
+FR épidémie
+JA 
+KO 
+PT epidemia, (syn.) doença epidêmica, doença epidémica
+(pt-PT)
+RU  
+ZH 
+epidemic threshold
+Number of individuals within a population at risk that is
+required for an epidemic to occur.
+MEDI, Public health & hygiene
+COVID-19 Glossary
+14
+AR
+
+
+DE epidemische Schwelle
+ES umbral epidémico
+FR seuil épidémique
+JA 
+KO  
+PT limite epidêmico, (syn.) limiar epidêmico, limiar
+epidémico (pt-PT)
+RU  
+ZH 
+epidemiology
+Scientific study of the occurrence of a disease or other
+health-related event in specified populations, and its
+application to the control of health problems.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+DE Epidemiologie
+ES epidemiología
+FR épidémiologie
+JA 
+KO 
+PT epidemiologia
+RU 
+ZH 
+F
+fever
+(syn.) pyrexia
+Innate immune response mechanism that increases a
+person's body temperature above the normal level.
+MEDI, Anatomy & physiology
+AR
+
+
+(syn.)
+
+DE Fieber
+ES fiebre
+FR fièvre
+JA 
+KO , (syn.) 
+PT febre
+RU , (syn.)   
+ZH  (syn.) 
+filtering facepiece respirator
+(syn.) filtering face-piece respirator, FFR
+Respiratory protective equipment that uses filters to
+remove hazardous substances from the air being
+breathed by the wearer.
+ENVR, Personal protective equipment
+AR
+
+
+
+DE partikelfiltrierende Halbmaske
+ES mascarilla autofiltrante
+FR masque de protection respiratoire, (syn.) masque FFP
+JA 
+KO  
+PT máscara autofiltrante
+RU   , (syn.) 
+
+ZH 
+fomite
+Inanimate object contaminated by an infectious agent
+that can indirectly transmit an infectious disease.
+MEDI, Pathology
+AR
+
+
+DE unbelebter Vektor
+ES fómite, (syn.) vector pasivo
+FR vecteur passif
+JA 
+KO 
+PT fômite, (syn.) fómite (pt-PT)
+RU 
+ZH 
+full face shield
+COVID-19 Glossary
+15
+(syn.) face shield (syn.) full-face visor (syn.) visor
+Personal protective equipment that protects the
+wearer's eyes and face from sprays, splashes, and
+large-particle droplets, and prevents the spread of
+respiratory droplets from the wearer to others.
+ENVR, Personal protective equipment
+AR
+
+
+
+(syn.)
+
+
+DE Gesichtsschutz
+ES pantalla facial
+FR visière
+JA 
+KO 
+PT viseira de proteção facial
+RU  
+ZH 
+G
+gene
+Sequence of DNA that carries the required information
+for making a specific molecule, typically a protein.
+SCIE, Genetics
+AR
+
+
+(syn.)
+
+DE Gen
+ES gen
+FR gène
+JA 
+KO 
+PT gene
+RU 
+ZH 
+gene therapy
+Therapeutic treatment whereby one or more foreign
+genes are inserted into the genome of an organism by
+means of a vector, to compensate for abnormal genes
+or to help the organism produce a protein that can be
+beneficial for it.
+MEDI, Therapeutics
+AR
+
+
+
+(syn.)
+
+
+DE Gentherapie
+ES genoterapia, (syn.) terapia génica
+FR thérapie génique
+JA 
+KO  
+PT terapia gênica, (syn.) terapia génica (pt-PT)
+RU  
+ZH 
+genome
+Complete set of DNA of a living organism, including all
+of its genes.
+SCIE, Genetics
+AR
+ 
+
+(syn.)
+
+
+DE Genom
+ES genoma
+FR génome
+JA 
+KO , (syn.) 
+PT genoma
+RU 
+ZH 
+H
+hand sanitizer
+Gel, foam, or liquid used for handwashing that may or
+may not contain alcohol.
+CHEM, Detergents & cleaning agents
+AR
+
+
+DE Händedesinfektionsmittel
+ES gel hidroalcohólico, (syn.) alcohol en gel
+FR désinfectant pour les mains
+COVID-19 Glossary
+16
+JA 
+KO  
+PT gel desinfetante, (syn.) álcool-gel
+RU  , (syn.)  
+ , 
+ZH 
+hand washing
+Action of removing any unwanted substance or
+microorganism from a person's hands using water or
+another liquid, with or without soap or other detergents.
+MEDI, Public health & hygiene
+AR
+
+
+DE Händewaschen
+ES lavado de las manos
+FR lavage des mains
+JA 
+KO  
+PT lavagem das mãos
+RU  
+ZH 
+herd immunity
+(syn.) community immunity
+Indirect protection from an infectious agent achieved in
+a population at risk when a sufficiently large proportion
+of individuals in the population show an acquired
+immunity to that infectious agent.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+DE Herdenimmunität
+ES inmunidad de grupo, (syn.) inmunidad colectiva,
+inmunidad de rebaño
+FR immunité de groupe
+JA 
+KO  
+PT imunidade de grupo, (syn.) imunidade comunitária
+RU  , (syn.) 
+
+ZH 
+high-risk group
+Part of a population at risk that has higher than
+average prevalence, incidence or severity of a disease.
+MEDI, Public health & hygiene
+AR
+
+
+
+
+DE besonders gefährdete Personengruppe
+ES grupo de alto riesgo
+FR groupe à haut risque
+JA , (syn.) 
+KO 
+PT grupo de alto risco
+RU  
+ZH 
+hospital gown
+Garment of personal protective equipment worn in
+healthcare settings to reduce the risk of exposure to
+infectious agents.
+MEDI, Medical equipment
+AR
+
+
+DE Schutzkittel
+ES bata quirúrgica
+FR casaque
+JA 
+KO 
+PT bata hospitalar
+RU  
+ZH 
+hospitalization
+Admission and stay of a patient in a hospital for
+treatment.
+MEDI, Medical care
+AR
+
+COVID-19 Glossary
+17
+DE Krankenhausaufenthalt
+ES hospitalización
+FR hospitalisation
+JA 
+KO 
+PT hospitalização
+RU 
+ZH 
+host
+Person or animal infected by an infectious agent.
+SCIE, Biology
+AR
+
+
+(syn.)
+
+DE Wirt
+ES hospedador, (syn.) hospedero
+FR hôte
+JA 
+KO 
+PT hospedeiro
+RU 
+ZH 
+hygiene
+Set of practices that help to maintain health and
+prevent the spread of diseases.
+MEDI, Public health & hygiene
+AR
+
+
+(syn.)
+
+
+DE Hygiene
+ES higiene
+FR hygiène
+JA 
+KO 
+PT higiene
+RU 
+ZH 
+I
+immune response
+Reaction of the immune system of an organism to
+potentially harmful stimuli.
+MEDI, Anatomy & physiology
+AR
+
+
+
+DE Immunantwort
+ES respuesta inmunitaria, (syn.) respuesta immune
+FR réponse immunitaire, (syn.) réaction immunitaire
+JA , (syn.) 
+KO  
+PT resposta imunitária, (syn.) resposta imune, resposta
+imunológica
+RU  
+ZH 
+immune system
+Network of cells and antibodies that defends the body
+against the attack of agents perceived as extraneous
+and potentially harmful to it by triggering an immune
+response, which can be specific (adaptive) or not
+specific (innate).
+MEDI, Anatomy & physiology
+AR
+
+
+DE Immunsystem
+ES sistema inmunitario, (syn.) sistema inmunológico
+FR système immunitaire
+JA 
+KO 
+PT sistema imunitário, (syn.) sistema imunológico, sistema
+imune
+RU  
+ZH 
+immunity
+Condition of being protected against an infectious
+disease.
+MEDI, Anatomy & physiology
+AR
+
+COVID-19 Glossary
+18
+DE Immunität
+ES inmunidad
+FR immunité
+JA 
+KO 
+PT imunidade
+RU 
+ZH 
+imported case
+Case who has a history of travel from an affected area
+some time before the onset of the disease and cannot
+be linked to local transmission.
+MEDI, Public health & hygiene
+AR
+
+
+DE importierter Fall
+ES caso importado
+FR cas importé
+JA 
+KO  
+PT caso importado
+RU  
+ZH 
+incidence
+New cases of a disease arising in a given period in a
+population at risk.
+MEDI, Public health & hygiene
+AR
+
+
+DE Incidenz
+ES incidencia
+FR incidence
+JA , (syn.) 
+KO 
+PT incidência
+RU , (syn.) 
+ZH 
+incubation period
+Lapse of time between the exposure to an infectious
+agent and the onset of the symptoms of a disease.
+MEDI, Pathology
+AR
+
+
+DE Inkubationszeit
+ES período de incubación
+FR période d'incubation
+JA 
+KO 
+PT período de incubação
+RU  
+ZH 
+index case
+(syn.) index patient
+The first known case of the outbreak of a disease in a
+cluster.
+MEDI, Public health & hygiene
+AR
+
+
+DE Indexfall
+ES caso índice
+FR cas index
+JA , (syn.) , 
+KO , (syn.)  
+PT caso índice
+RU  , (syn.)  
+ZH 
+indirect contact transmission
+Mode of transmission that occurs when an infectious
+agent is transferred from a reservoir to a host by
+means of a vehicle, i.e. water, food or air, a vector or a
+fomite.
+MEDI, Pathology
+AR
+
+
+
+DE indirekte Kontaktübertragung
+ES transmisión indirecta
+FR transmission par contact indirect
+COVID-19 Glossary
+19
+JA 
+KO   
+PT transmissão indireta
+RU    
+ZH 
+infection fatality rate
+(syn.) IFR
+Proportion of people who will die of a certain disease
+out of all those who have been infected.
+MEDI, Public health & hygiene
+AR
+
+
+
+DE Infizierten-Verstorbenen-Anteil
+ES tasa de letalidad
+FR taux de mortalité par infection, (syn.) IFR
+JA , (syn.) 
+KO  
+PT taxa de letalidade da infecção, (syn.) letalidade dos
+infectados
+RU    
+ZH 
+infectious agent
+Biological agent that may or may not cause an
+infectious disease.
+MEDI, Pathology
+AR
+
+
+DE Infektionserreger
+ES agente infeccioso
+FR agent infectieux
+JA , (syn.) 
+KO 
+PT agente infeccioso
+RU  
+ZH 
+infectious disease
+Disease caused by a pathogen.
+MEDI, Pathology
+AR
+
+
+DE Infektionskrankheit
+ES enfermedad infecciosa
+FR maladie infectieuse
+JA 
+KO 
+PT doença infecciosa
+RU oe e
+ZH 
+infectivity
+Ability of an infectious agent to enter, survive, and
+multiply in a host.
+SCIE, Biology
+AR
+
+
+
+
+DE Infektiosität
+ES infecciosidad
+FR infectiosité
+JA 
+KO 
+PT infecciosidade, (syn.) infectividade
+RU 
+ZH 
+inflammation
+Series of innate immunity processes initiated by the
+body in response to an injury.
+MEDI, Anatomy & physiology
+AR
+
+DE Entzündung
+ES inflamación
+FR inflammation
+JA 
+KO 
+PT inflamação
+COVID-19 Glossary
+20
+RU 
+ZH 
+intensive care unit
+(syn.) critical care unit, ICU, CCU
+Hospital facility that provides critical care and life
+support for acutely ill or injured patients.
+MEDI, Medical care
+AR
+
+
+
+
+
+(syn.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DE Intensivstation
+ES unidad de cuidados intensivos, (syn.) unidad de terapia
+intensiva, UCI, UTI
+FR unité de soins intensifs, (syn.) USI
+JA , (syn.) ICU
+KO , (syn.) 
+PT unidade de cuidados intensivos, (syn.) UCI
+RU     ,
+(syn.) 
+ZH , (syn.) 
+intubation
+(syn.) endotracheal intubation
+Invasive lung ventilation method in which a tube is
+inserted into the patient's trachea through the mouth or
+nose.
+MEDI, Surgery
+AR
+
+DE Intubation, (syn.) Intubierung
+ES intubación
+FR intubation
+JA 
+KO 
+PT intubação
+RU 
+ZH 
+L
+laboratory test
+Diagnostic test performed on samples of a person's
+body, e.g. blood, urine, saliva, tissues, typically in
+specially equipped facilities.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+
+(syn.)
+
+
+
+
+
+DE Labortest
+ES prueba de laboratorio
+FR examen de laboratoire
+JA 
+KO  
+PT teste laboratorial
+RU  
+ZH 
+lockdown
+(syn.) confinement
+Strategy adopted by a public body because of an
+emergency that requires people to remain in a certain
+location which they may not leave other than for
+exceptional reasons.
+MEDI, Public health & hygiene
+AR
+
+DE Massenquarantäne
+ES confinamiento
+FR confinement
+JA , (syn.) 
+KO 
+PT confinamento
+RU  
+ZH 
+M
+COVID-19 Glossary
+21
+magnetic resonance imaging
+(syn.) magnetic resonance tomography, nuclear
+magnetic resonance imaging, MRI, MRT, NMRI
+Medical imaging technique by which three-dimensional
+images of the body are obtained by exciting protons
+present in the water of living tissues and detecting the
+change in the direction of their rotational axis by
+means of a magnetic resonance imaging scanner.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+
+DE Magnetresonanztomographie, (syn.) MRT,
+Kernspintomographie, Magnetresonanz-Bildgebung
+ES imagen por resonancia magnética, (syn.) IRM
+FR imagerie par résonance magnétique, (syn.) imagerie par
+résonance magnétique nucléaire, IRM
+JA 
+KO , (syn.) , MRI
+PT imagiologia por ressonância magnética, (syn.) IRM
+RU - , (syn.)
+- , 
+ZH 
+mask
+Commercially produced or homemade covering for
+nose and mouth used to reduce the spread of
+respiratory droplets from the wearer to others.
+MEDI, Public health & hygiene
+AR
+
+
+(syn.)
+
+DE Atemschutzmaske
+ES mascarilla, (syn.) barbijo (es-AR), tapaboca (es-CU)
+FR masque
+JA 
+KO 
+PT máscara
+RU 
+ZH 
+mechanical ventilation
+Lung ventilation provided by driving fresh air into the
+lungs by positive pressure and/or by pumping
+expiratory air out of the lungs by negative pressure.
+MEDI, Medical care
+AR
+
+
+DE maschinelle Beatmung
+ES ventilación mecánica
+FR ventilation artificielle
+JA , (syn.) MV
+KO 
+PT ventilação mecânica
+RU   , (syn.) 
+, 
+ZH 
+mechanical ventilator
+(syn.) ventilator
+Machine that helps patients to breathe by driving fresh
+air into the lungs by positive pressure and/or by
+pumping expiratory air out of the lungs by negative
+pressure, replacing some or all of the muscular effort
+required for lung ventilation.
+MEDI, Medical equipment
+AR
+
+
+
+DE Beatmungsgerät, (syn.) mechanischer Ventilator,
+Respirator
+ES respirador, (syn.) ventilador mecánico
+FR ventilateur mécanique
+JA 
+KO  
+PT ventilador mecânico
+RU    , (syn.)
+ 
+ZH 
+medical care
+Administration and delivery of healthcare by
+professionals.
+COVID-19 Glossary
+22
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+DE medizinische Versorgung
+ES atención médica
+FR soins médicaux
+JA 
+KO 
+PT cuidado médico
+RU  
+ZH 
+medical glove
+Personal protective equipment for the hands typically
+worn by healthcare professionals to protect themselves
+from exposure to infectious agents or other biological,
+chemical or physical hazards.
+MEDI, Medical equipment
+AR
+
+
+DE Einmalhandschuh
+ES guante médico
+FR gant médical
+JA 
+KO  
+PT luva médica
+RU  
+ZH 
+mitigation
+Strategy adopted by a public body to reduce the
+number of infected people in a given geographical area
+and limit the impact on the health system of a disease
+outbreak.
+MEDI, Public health & hygiene
+AR
+
+DE Folgenminderungsstrategie
+ES mitigación
+FR stratégie d'atténuation
+JA 
+KO 
+PT mitigação
+RU  
+ZH 
+mode of transmission
+(syn.) route of transmission
+Means by which an infectious agent spreads from one
+host to another.
+MEDI, Pathology
+AR
+
+
+
+
+(syn.)
+
+
+
+DE Übertragungsweg
+ES vía de transmisión
+FR mode de transmission
+JA 
+KO 
+PT modo de transmissão
+RU  
+ZH 
+monoclonal antibody
+Laboratory-produced molecule that targets and attacks
+specific antigens, thereby triggering a specific immune
+response.
+SCIE, Therapeutics
+AR
+
+
+
+
+
+(syn.)
+
+
+
+
+
+
+
+
+
+DE monoklonaler Antikörper
+ES anticuerpo monoclonal
+FR anticorps monoclonal
+JA , (syn.) 
+KO  
+PT anticorpo monoclonal
+RU  
+ZH 
+morbidity
+Level of health and well-being of an individual.
+COVID-19 Glossary
+23
+MEDI, Public health & hygiene
+AR
+
+DE Morbidität
+ES morbilidad
+FR morbidité
+JA 
+KO 
+PT morbidade
+RU 
+ZH 
+multiple organ failure
+(syn.) multiorgan failure, MOF
+Inability of two or more organs or organ systems to
+perform their function.
+MEDI, Pathology
+AR
+
+
+
+DE Multiorganversagen, (syn.) MOV
+ES insuficiencia multiorgánica, (syn.) fallo multiorgánico
+FR défaillance multiviscérale, (syn.) défaillance
+polyviscérale
+JA 
+KO  , (syn.) 
+PT falência multiorgânica
+RU  
+ZH 
+N
+nasopharyngeal swab test
+Method of collecting a specimen of nasal secretions for
+diagnostic purposes by inserting a swab into each
+nostril, extending it back into the nasopharynx, leaving
+it in place for a few seconds, and slowly withdrawing it
+with a rotating motion.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+
+DE Nasen-Rachen-Abstrich
+ES hisopado nasofaríngeo
+FR prélèvement nasopharyngé
+JA 
+KO   , (syn.) 
+PT esfregaço nasofaríngeo, (syn.) exsudado nasofaríngeo
+RU   
+ZH 
+non-invasive ventilation
+(syn.) NIV
+Positive pressure ventilation provided through a
+person's upper respiratory airways using an oxygen
+mask.
+MEDI, Medical care
+AR
+
+
+
+DE nicht-invasive Beatmung
+ES ventilación no invasiva, (syn.) VNI
+FR ventilation non invasive
+JA , (syn.) NIV
+KO  
+PT ventilação não-invasiva, (syn.) VNI
+RU    ,
+(syn.)  
+ZH 
+nucleotide sequence
+Sequence of the repeating units of DNA or RNA.
+SCIE, Biochemistry
+AR
+
+
+
+(syn.)
+
+
+
+
+
+DE Nukleotidsequenz
+ES secuencia nucleotídica, (syn.) secuencia de nucleótidos
+FR séquence nucléotidique
+JA 
+KO  
+PT sequência nucleotídica, (syn.) seqüência nucleotídica
+(pt-BR)
+RU  
+ZH 
+COVID-19 Glossary
+24
+P
+pandemic
+(syn.) pandemic disease
+Epidemic disease that has spread to different countries
+and continents.
+MEDI, Public health & hygiene
+AR
+
+DE Pandemie
+ES pandemia
+FR pandémie
+JA , (syn.) 
+KO , (syn.) 
+PT pandemia
+RU 
+ZH 
+pandemic preparedness
+Ability of a public body to deal with a threat to human
+health caused by a pandemic by ensuring that
+appropriate response plans are in place.
+MEDI, Public health & hygiene
+AR
+
+
+DE Pandemievorbereitung
+ES preparación para pandemias
+FR préparation à une pandémie
+JA 
+KO  
+PT preparação para pandemia
+RU   
+ZH 
+pathogen
+Infectious agent causing a disease.
+SCIE, Biology
+AR
+
+
+DE Pathogen
+ES microorganismo patógeno, (syn.) patógeno
+FR agent pathogène
+JA 
+KO 
+PT patógeno
+RU , (syn.)  
+ZH 
+personal protective equipment
+(syn.) PPE
+Gear worn by an individual that provides protection
+against one or more risks to a person's health and
+safety.
+ENVR, Personal protective equipment
+AR
+
+
+
+DE persönliche Schutzausrüstung, (syn.) PSA
+ES equipo de protección individual, (syn.) EPI
+FR équipement de protection individuelle, (syn.) EPI
+JA , (syn.) PPE
+KO 
+PT equipamento de proteção individual, (syn.) EPI
+RU   , (syn.) 
+ZH , (syn.) PPE
+pharmacoepidemiology
+Study of the use and effects of drugs in large numbers
+of people, the aim of which is to estimate the
+probability of positive or negative effects of a drug.
+MEDI, Pharmacology
+AR
+
+
+DE Pharmakoepidemiologie
+ES farmacoepidemiología
+FR pharmaco-épidémiologie
+JA 
+KO 
+PT farmacoepidemiologia
+COVID-19 Glossary
+25
+RU 
+ZH 
+point-of-care testing
+(syn.) point-of-collection testing, POCT
+Method of performing a laboratory test at or near the
+site of patient care.
+MEDI, Medical care
+AR
+
+
+
+DE patientennahe Sofortdiagnostik, (syn.) patientennahe
+Labordiagnostik, POCT
+ES análisis junto al paciente, (syn.) pruebas a la cabecera
+del paciente
+FR analyses de biologie délocalisée, (syn.) ADBD
+JA , (syn.) , POCT
+KO , (syn.) POCT
+PT teste laboratorial remoto, (syn.) teste de diagnóstico
+rápido, TLR, TDR
+RU    , (syn.) 
+ZH , (syn.) POCT
+polymerase chain reaction
+(syn.) PCR
+Molecular biology technique that applies high
+temperature and a DNA polymerase to a sample of
+DNA containing the target sequence, thereby
+producing copies of small segments of the original
+DNA for use in further molecular and genetic analysis.
+SCIE, Genetics
+AR
+  
+
+(syn.)
+
+
+
+
+
+
+
+DE Polymerasekettenreaktion, (syn.) Polymerase-
+Kettenreaktion, PCR
+ES reacción en cadena de la polimerasa, (syn.) RCP, PCR
+FR amplification en chaîne par polymérase, (syn.) réaction
+en chaîne par polymérase, réaction en chaîne à la
+polymérase, ACP, PCR
+JA 
+KO   , (syn.) PCR
+PT reação em cadeia da polimerase, (syn.) PCR
+RU   , (syn.) 
+ZH , (syn.) PCR
+portal of entry
+Anatomical site at which an infectious agent enters a
+host.
+MEDI, Pathology
+AR
+
+
+DE Eintrittspforte
+ES puerta de entrada
+FR porte d'entrée
+JA 
+KO 
+PT porta de entrada, (syn.) via de entrada
+RU   
+ZH 
+portal of exit
+Anatomical site at which an infectious agent leaves a
+host.
+MEDI, Pathology
+AR
+
+
+DE Austrittspforte
+ES puerta de salida
+FR porte de sortie
+JA 
+KO 
+PT porta de saída, (syn.) via de saída
+RU   
+ZH 
+pre-symptomatic transmission
+Mode of transmission of an infectious disease to
+another person from an infected person who has not
+yet developed symptoms.
+MEDI, Pathology
+COVID-19 Glossary
+26
+AR
+
+
+
+
+
+
+DE präsymptomatische Übertragung
+ES transmisión presintomática
+FR transmission pré-symptomatique
+JA 
+KO  
+PT transmissão pré-sintomática
+RU  
+ZH , (syn.) 
+prevalence
+All cases of a disease observed at a given point in time
+in a population at risk.
+MEDI, Public health & hygiene
+AR
+
+
+DE Prävalenz
+ES prevalencia
+FR prévalence
+JA 
+KO 
+PT prevalência
+RU , (syn.) 
+ZH 
+primary case
+(syn.) patient zero
+Case to whom the onset of the outbreak of a disease
+can be traced back.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+
+DE Patient Null
+ES caso inicial, (syn.) caso primario
+FR patient zéro
+JA 1 
+KO 1  , (syn.)  
+PT caso primário
+RU  
+ZH 
+probable case
+Case that is compatible with a clinical case definition
+and for whom there is strong epidemiological evidence
+of disease, e.g. the person is a contact of a confirmed
+case but no laboratory test confirmation is available.
+MEDI, Public health & hygiene
+AR
+
+
+DE wahrscheinlicher Fall
+ES caso probable
+FR cas probable
+JA 
+KO 
+PT caso provável
+RU  
+ZH 
+public health
+Science of protecting and improving the health of
+people through the organized efforts of society by
+promoting a healthy lifestyle, preventing injuries, and
+preventing, detecting and responding to infectious
+diseases.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+DE öffentliches Gesundheitswesen
+ES salud pública
+FR santé publique
+JA 
+KO  
+PT saúde pública
+RU  
+ZH 
+public health surveillance
+Ongoing systematic collection, analysis, and
+dissemination of health data to help guide public health
+decision making and action.
+MEDI, Public health & hygiene
+COVID-19 Glossary
+27
+AR
+
+
+
+DE epidemiologische Überwachung
+ES vigilancia de la salud pública
+FR surveillance épidémiologique, (syn.) surveillance de
+santé publique
+JA 
+KO  
+PT vigilância sanitária pública, (syn.) vigilância em saúde
+pública
+RU - 
+ZH 
+Q
+quarantine
+Strategy adopted by a public body to keep apart from
+the general population for a certain period of time all
+individuals suspected of having contact with a person
+affected by an infectious disease or coming from an
+affected area, until it is confirmed that they have not
+contracted the disease.
+MEDI, Public health & hygiene
+AR
+
+
+DE Quarantäne
+ES cuarentena
+FR quarantaine
+JA , (syn.) 
+KO 
+PT quarentena
+RU 
+ZH 
+R
+real-time reverse transcription-
+polymerase chain reaction
+(syn.) real-time RT-PCR, rRT-PCR
+Reverse transcription polymerase chain reaction in
+which detection and quantification of amplified DNA
+sequences are performed after each PCR cycle.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+
+
+
+
+
+
+DE Echtzeit RT-PCR
+ES reacción en cadena de la polimerasa con transcripción
+inversa en tiempo real
+FR RT-PCR en temps reel, (syn.) RT-PCR temps reel
+JA , (syn.) Real-Time
+RT-PCR
+KO    
+PT reação em cadeia da polimerase da transcrição reversa
+em tempo real, (syn.) RT-PCR em tempo real, rRT-PCR
+RU     
+   , (syn.) --
+ZH , (syn.) rRT-PCR
+reservoir
+Natural habitat in which an infectious agent normally
+lives, grows, and multiplies.
+SCIE, BiologyCIE, Biology
+AR
+
+
+(syn.)
+
+DE Reservoir
+ES reservorio
+FR réservoir
+JA , (syn.) 
+KO 
+PT reservatório
+RU 
+ZH 
+respiratory disease
+Disease affecting the airways and the lungs and
+hindering normal breathing, which may be caused by,
+e.g., infection, air pollution, or exposure to noxious
+substances.
+MEDI, Pathologyogy
+COVID-19 Glossary
+28
+AR
+
+
+DE Atemwegserkrankung
+ES enfermedad respiratoria
+FR maladie respiratoire
+JA 
+KO  
+PT doença respiratória
+RU   , (syn.) 
+
+ZH 
+respiratory droplet
+(syn.) droplet
+Particle made of water, proteins, viral RNA, and non-
+volatile metabolites, which is >5-10 m in diameter and
+is exhaled from the nose and mouth of a person whilst
+e.g. coughing, sneezing breathing, or talking.
+MEDI, Anatomy & physiology
+AR
+
+
+(syn.)
+
+
+
+
+DE Tröpfchen
+ES gotícula
+FR gouttelette
+JA , (syn.) 
+KO  , (syn.) 
+PT gotícula respiratória, (syn.) gotícula
+RU 
+ZH , (syn.)
+respiratory hygiene
+(syn.) cough etiquette
+Set of practices and behaviours adopted by an
+individual with the aim of preventing the spread of
+respiratory diseases.
+MEDI, Public health & hygiene
+AR
+
+
+DE Husten-Nies-Etikette
+ES higiene respiratoria
+FR hygiène respiratoire
+JA 
+KO  , (syn.) 
+PT higiene respiratória
+RU  
+ZH , (syn.) 
+respiratory protective equipment
+(syn.) respirator (en-US), RPE
+Personal protective equipment that protects the wearer
+against inhalation of hazardous substances in the air,
+such as dust, fumes, gases, or biological substances.
+ENVR, Personal protective equipment
+AR
+
+
+
+
+(syn.)
+
+
+
+DE Atemschutzgerät
+ES equipo de protección respiratoria
+FR appareil de protection respiratoire, (syn.) APR
+JA 
+KO  
+PT equipamento de proteção respiratória, (syn.) EPR,
+respirador
+RU , (syn.)   
+ , 
+ZH 
+risk factor
+Characteristic, condition, or behaviour that increases
+the likelihood that a person will contract a disease or
+sustain an injury.
+MEDI, Public health & hygiene
+AR
+
+
+
+(syn.)
+
+
+DE Risikofaktor
+ES factor de riesgo
+FR facteur de risque
+JA , (syn.) 
+KO 
+PT fator de risco
+RU  
+ZH 
+COVID-19 Glossary
+29
+ribonucleic acid
+(syn.) RNA
+Single-stranded nucleic acid whose nucleotides consist
+of a backbone made up by a simple sugar, called
+ribose, a phosphate group, and a nitrogenous base,
+i.e. adenine, guanine, cytosine, and uracil.
+SCIE, Biochemistry
+AR
+
+
+
+
+(syn.)
+
+DE Ribonukleinsäure, (syn.) RNA, RNS
+ES ácido ribonucleico, (syn.) ARN
+FR acide ribonucléique, (syn.) ARN
+JA , (syn.) RNA
+KO 
+PT ácido ribonucleico, (syn.) RNA, ARN
+RU  , (syn.) 
+ZH , (syn.) RNA
+S
+self-isolation
+(syn.) self-quarantine
+Measure taken by an individual in order to avoid
+contact with other people and thus help to prevent the
+spread of an infectious disease.
+MEDI, Public health & hygiene
+AR
+
+
+DE Selbst-Isolation
+ES aislamiento voluntario
+FR isolement
+JA 
+KO , (syn.) 
+PT autoisolamento, (syn.) auto-isolamento
+RU 
+ZH 
+sepsis
+Organ dysfunction syndrome caused by an impairment
+of the physiological regulatory mechanisms via which a
+host responds to infection.
+MEDI, Pathology
+AR
+
+
+(syn.)
+
+
+DE Sepsis
+ES sepsis
+FR sepsis
+JA 
+KO 
+PT sepsis, (syn.) sepse
+RU c
+ZH 
+septic shock
+Class of sepsis in which abnormalities of circulation,
+i.e. persistent hypotension despite fluid resuscitation,
+and/or of cellular metabolism are serious enough to
+increase mortality substantially.
+MEDI, Pathology
+AR
+
+
+DE septischer Schock
+ES choque séptico
+FR choc septique
+JA 
+KO  , (syn.) 
+PT choque séptico, (syn.) choque sético (pt-PT)
+RU  
+ZH 
+serologic test
+(syn.) serological test, antibody test
+Laboratory test aimed at detecting in the blood serum
+of an individual the presence of antibodies produced in
+response to a given disease.
+MEDI, Diagnostic equipment & procedures
+COVID-19 Glossary
+30
+AR
+
+
+
+(syn.)
+
+
+
+
+
+DE serologischer Test
+ES prueba serológica, (syn.) prueba de anticuerpos
+FR test sérologique
+JA , (syn.) 
+KO , (syn.)  , 
+PT teste serológico
+RU  
+ZH 
+severe acute respiratory syndrome
+(syn.) SARS
+Infectious disease caused by SARS-CoV-1.
+MEDI, Pathology
+AR
+
+
+
+
+
+(
+syn.
+)
+
+
+
+
+
+
+
+DE schweres akutes Atemnotsyndrom, (syn.) schweres
+akutes Atemwegssyndrom, SARS
+ES síndrome respiratorio agudo grave, (syn.) SRAG
+FR syndrome respiratoire aigu sévère, (syn.) SRAS
+JA , (syn.) SARS
+KO , (syn.) 
+PT síndrome respiratória aguda grave, (syn.) síndrome
+respiratória aguda severa, SARS
+RU    , (syn.)
+
+ZH , (syn.) , SARS
+severe acute respiratory syndrome
+coronavirus 2
+(syn.) SARS-CoV-2
+Coronavirus that causes COVID-19.
+SCIE, Biology
+AR
+
+-
+
+-
+2
+DE schweres akutes respiratorisches Syndrom-Coronavirus-
+2, (syn.) SARS-CoV-2
+ES coronavirus del síndrome respiratorio agudo grave 2,
+(syn.) coronavirus 2 del síndrome respiratorio agudo grave,
+SARS-CoV-2
+FR SARS-CoV-2
+JA , (syn.) SARS-CoV-2
+KO SARS CoV-2
+PT coronavírus da síndrome respiratória aguda grave 2,
+(syn.) coronavírus 2 da síndrome respiratória aguda grave,
+SARS-CoV-2
+RU    
+ , (syn.) SARS-CoV-2
+ZH  2, (syn.) SARS-CoV-2
+social distancing
+Strategy adopted by a public body to reduce physical
+contact and proximity between individuals in a
+community in order to reduce the risk of transmission
+of an infectious disease, for example by instructing or
+advising individuals to maintain a certain distance from
+each other or by prohibiting gatherings of more than a
+certain number of people.
+MEDI, Public health & hygiene
+AR
+
+
+DE räumliche Distanzierung
+ES distanciamiento social
+FR distanciation physique
+JA 
+KO  
+PT distanciamento social
+RU  
+ZH 
+spike glycoprotein
+(syn.) spike
+Glycoprotein complex made up of three protomers and
+located on the envelope of coronaviruses, which
+enables the virus to bind to the receptor site of the host
+cells.
+SCIE, Biochemistry
+AR
+
+
+DE Spike-Glykoprotein, (syn.) Spike
+ES glicoproteína de la espícula, (syn.) espícula
+COVID-19 Glossary
+31
+FR glycoprotéine de spicule, (syn.) spicule
+JA , (syn.) 
+KO  
+PT glicoproteína de espícula, (syn.) espícula
+RU   
+ZH 
+super-spreader
+Person affected by an infectious disease who transmits
+the disease to a significantly higher number of people
+than does the average infected person.
+MEDI, Public health & hygiene
+AR
+
+
+
+DE Superverbreiter
+ES supercontagiador
+FR super-propagateur
+JA 
+KO  
+PT supercontagiador
+RU 
+ZH 
+surgical mask
+Half-face mask, flat and rectangular in shape, made of
+nonwoven fabric and comprising filtration layers, with
+folds and elastic bands or long straight ties that can be
+looped behind a person's ears or tied around a
+person's head, which is used to protect the wearer
+from sprays, splashes, and large-particle droplets and
+to prevent the spread of respiratory droplets from the
+wearer to others.
+MEDI, Medical equipment
+AR
+
+
+DE chirurgischer Mund-Nasen-Schutz
+ES mascarilla quirúrgica, (syn.) barbijo quirúrgico (es-AR),
+tapaboca quirúrgico (es-CU)
+FR masque chirurgical
+JA , (syn.) 
+KO  
+PT máscara cirúrgica
+RU  
+ZH 
+suspected case
+Case that is compatible with a clinical case definition
+but there is no laboratory test confirmation or strong
+epidemiological evidence, e.g. the person is not a
+contact of a confirmed case.
+MEDI, Public health & hygiene
+AR
+
+
+
+
+(syn.)
+
+
+DE Verdachtsfall
+ES caso sospechoso
+FR cas possible
+JA 
+KO  
+PT caso suspeito
+RU  
+ZH 
+swab
+Piece of soft material used by a healthcare
+professional for cleaning wounds or taking samples
+from a person's body for testing purposes.
+MEDI, Diagnostic equipment & procedures
+AR
+
+DE Tupfer
+ES hisopo
+FR écouvillon
+JA , (syn.) 
+KO 
+PT zaragatoa
+RU , (syn.) -
+ZH 
+swab test
+COVID-19 Glossary
+32
+Method of collecting a sample of organic material for
+diagnostic purposes by inserting a swab into a
+person's body orifices, e.g. nose, mouth, etc.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+DE Tupfertest
+ES hisopado
+FR écouvillonnage
+JA , (syn.) 
+KO  
+PT esfregaço
+RU 
+ZH 
+symptom
+Manifestation of a disease that is perceptible to only
+the patient (subjective symptom) or to the patient and
+others (objective symptom or sign).
+MEDI, Pathology
+AR
+
+DE Symptom
+ES síntoma
+FR symptôme
+JA 
+KO 
+PT sintoma
+RU 
+ZH 
+symptomatic transmission
+Mode of transmission to another person of an
+infectious disease from an infected person who has
+developed symptoms.
+MEDI, Pathology
+AR
+
+
+
+
+DE symptomatische Übertragung
+ES trasmisión sintomática
+FR transmission symptomatique
+JA 
+KO  
+PT transmissão sintomática
+RU  
+ZH 
+systemic inflammatory response
+syndrome
+(syn.) SIRS
+Condition characterized by a disproportionate
+inflammatory response to a variety of severe clinical
+phenomena, including relating to body temperature
+(>38°C or <36°C), heart rate (>90 beats per minute),
+respiratory rate (>20 breaths per minute or PaCO2 <32
+mmHg), and white blood cell count (>12,000/cu mm,
+<4,000/cu mm, or >10% immature band forms).
+MEDI, Pathology
+AR
+
+
+
+
+DE systemisches inflammatorisches Response-Syndrom,
+(syn.) SIRS
+ES síndrome de respuesta inflamatoria sistémica, (syn.)
+SRIS
+FR syndrome de réponse inflammatoire systémique, (syn.)
+SIRS
+JA , (syn.) SIRS
+KO    
+PT síndrome da resposta inflamatória sistémica, (syn.) SIRS
+RU    , (syn.)
+
+ZH , (syn.) SIRS
+T
+telehealth
+Remote provision of clinical and non-clinical services
+using information and communication technologies,
+such as diagnosis and treatment of diseases and
+COVID-19 Glossary
+33
+injuries, research and evaluation, and education of
+health professionals.
+MEDI, Medical care
+AR
+
+
+
+DE Telegesundheit
+ES telesalud
+FR télésanté
+JA 
+KO  
+PT telessaúde
+RU 
+ZH 
+thrombosis
+Vascular disease involving the formation of thrombi
+inside a blood vessel, i.e. an artery or a vein,
+obstructing circulation.
+MEDI, Pathology
+AR
+
+
+
+(syn.)
+
+
+
+DE Thrombose
+ES trombosis
+FR thrombose
+JA 
+KO 
+PT trombose
+RU 
+ZH 
+triage
+Process of sorting patients or casualties to determine
+priority of need and proper place of treatment.
+MEDI, Medical care
+AR
+
+DE Triage
+ES triaje
+FR triage
+JA 
+KO  
+PT triagem
+RU  
+ZH 
+U
+urgent care
+Medical care provided for illnesses or injuries that
+require prompt attention but are typically not so serious
+as to require the services of an emergency room.
+MEDI, Medical care
+AR
+
+
+DE Bagatell-Notfall
+ES atención de urgencias menores
+FR soins non programmés
+JA 
+KO  
+PT pronto atendimento, (syn.) serviço de urgência básica,
+serviço de atendimento permanente, SAP, SUB
+RU  , (syn.)  
+
+ZH 
+urgent care facility
+(syn.) urgent care center
+A walk-in clinic led by qualified medical professionals,
+i.e. doctors and nurses, in which urgent care is
+delivered.
+MEDI, Medical care
+AR
+
+
+
+DE Notfallpraxis
+ES dispensario de urgencias menores
+FR centre de soins non programmés, (syn.) service
+d'accueil médical non programmé
+JA , (syn.) 
+KO   
+PT unidade de pronto atendimento, (syn.) centro de saúde,
+UPA
+COVID-19 Glossary
+34
+RU    , (syn.)
+  
+ZH 
+V
+vaccine
+Therapeutic preparation containing an antigen, i.e. a
+virus or a segment of a virus or a toxin generated by
+bacteria, that may have been attenuated, inactivated or
+killed and which is able to trigger the immune response
+and generate immunity in an organism.
+MEDI, Therapeutics
+AR
+
+DE Impfstoff, (syn.) Vakzine
+ES vacuna
+FR vaccin
+JA 
+KO 
+PT vacina
+RU 
+ZH 
+vector
+Living organism that indirectly transmits an infectious
+disease to a susceptible host either by carrying the
+infectious agent on its body (mechanical vector) or by
+providing an environment in which the infectious agent
+can reproduce and survive (biological vector).
+SCIE, Biology
+AR
+
+DE Vektor
+ES vector
+FR vecteur
+JA , (syn.) 
+KO 
+PT vetor
+RU 
+ZH 
+viral load
+Amount of viral particles present in a millilitre of a fluid
+sample, e.g. blood.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+
+DE Viruslast
+ES carga viral
+FR charge virale
+JA 
+KO  
+PT carga viral
+RU  
+ZH 
+viral vector
+Virus that has been genetically modified for use in
+gene therapy.
+SCIE, Genetics
+AR
+
+
+DE viraler Vektor
+ES vector viral
+FR vecteur viral
+JA 
+KO  
+PT vetor viral
+RU  
+ZH 
+virus
+Microscopic infectious agent that can multiply only in
+living cells of animals, plants, or bacteria, consisting of
+genetic material, either DNA or RNA, housed inside a
+capsid.
+SCIE, Biology
+COVID-19 Glossary
+35
+AR
+
+DE Virus
+ES virus
+FR virus
+JA 
+KO 
+PT vírus
+RU 
+ZH 
+X
+X-ray image
+Image formed by the shadows of the objects inside a
+patient's body when x-rays travel through it and pass
+through an x-ray detector on the other side of the
+patient.
+MEDI, Diagnostic equipment & procedures
+AR
+
+
+
+
+(syn.)
+
+
+
+DE Röntgenaufnahme
+ES radiografía
+FR cliché radiographique
+JA 
+KO  
+PT imagem radiográfica
+RU  
+ZH X 
+Z
+zoonosis
+Infectious disease that is transmissible under natural
+conditions from vertebrate animals to humans.
+MEDI, Pathology
+AR
+
+
+
+DE Zoonose
+ES zoonosis
+FR zoonose
+JA , (syn.) 
+KO 
+PT zoonose
+RU 
+ZH 
+World Intellectual Property Organization
+34, chemin des Colombettes
+P.O. Box 18
+CH-1211 Geneva 20
+Switzerland
+Tel: +41 22 338 91 11
+Fax: +41 22 733 54 28
+For contact details of WIPO's
+External Offices visit:
+www.wipo.int/about-wipo/en/offices
+© WIPO, 2020
+Attribution 3.0 IGO
+(CC BY 3.0 IGO)
+The CC license does not apply to non-
+WIPO content in this publication.
+Cover: © Getty Images / WIPO
+Printed in Switzerland
+WIPO Reference No. RN2020/4E
+

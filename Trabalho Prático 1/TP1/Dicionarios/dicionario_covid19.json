@@ -1,0 +1,2648 @@
+[
+    {
+        "indice": "1",
+        "termo_en": "acute respiratory distress syndrome",
+        "sinonimo_en": "ARDS",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Respiratory disease characterized by the rapid onset of widespread inflammation in the lungs.",
+        "traducoes": {
+            "AR": "",
+            "DE": "akutes Atemnotsyndrom des Erwachsenen, (syn.) ARDS",
+            "ES": "sndrome de dificultad respiratoria aguda, (syn.) SDRA",
+            "FR": "syndrome de dtresse respiratoire aigu, (syn.) SDRA",
+            "JA": ", (syn.) , ARDS",
+            "KO": ", (syn.) ARDS",
+            "PT": "sndrome do desconforto respiratrio agudo, (syn.) SDRA",
+            "RU": "-, (syn.)",
+            "ZH": ", (syn.) ARDS"
+        }
+    },
+    {
+        "indice": "2",
+        "termo_en": "adaptive immunity",
+        "sinonimo_en": "acquired immunity",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Immunity acquired during a person's lifetime upon exposure to an infectious agent either by previous infection or immunization.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "erworbene Immunitt, (syn.) adaptive Immunitt",
+            "ES": "inmunidad adquirida, (syn.) inmunidad adaptativa",
+            "FR": "immunit acquise, (syn.) immunit adaptative",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "imunidade adquirida, (syn.) imunidade adaptativa",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "3",
+        "termo_en": "aerosol",
+        "sinonimo_en": "n.d.",
+        "categoria": "CHEM, Chemical elements & compounds",
+        "definicao": "Suspension of solid or liquid particles in a gas.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Aerosol",
+            "ES": "aerosol",
+            "FR": "arosol",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "aerossol",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "4",
+        "termo_en": "ageusia",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Disorder characterized by loss of taste.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Ageusie",
+            "ES": "ageusia",
+            "FR": "agueusie",
+            "JA": "",
+            "KO": "",
+            "PT": "ageusia",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "5",
+        "termo_en": "airborne transmission",
+        "sinonimo_en": "aerosol transmission",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of indirect transmission of an infectious disease that occurs when an infectious agent is carried by dust or droplet nuclei suspended in the air in the form of aerosols.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "bertragung durch Trpfchenkerne",
+            "ES": "transmisin area, (syn.) transmisin por aerosoles",
+            "FR": "transmission par arosol",
+            "JA": ", (syn.)",
+            "KO": ", (syn.)",
+            "PT": "transmisso por aerossis",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "6",
+        "termo_en": "angiotensin-converting enzyme",
+        "sinonimo_en": "ACE",
+        "categoria": "SCIE, Biochemistry",
+        "definicao": "Class of ectoenzymes found in, e.g., the lungs, heart, skin, or blood vessels, whose function is to cleave circulating peptides, among which angiotensinogen, which are then used to regulate specific cell functions.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Angiotensin-konvertierendes Enzym, (syn.) ACE",
+            "ES": "enzima convertidora de la angiotensina, (syn.) ECA",
+            "FR": "enzyme de conversion de l'angiotensine, (syn.) ECA",
+            "JA": ", (syn.) ACE",
+            "KO": ", (syn.) ACE",
+            "PT": "enzima conversora de angiotensina, (syn.) ECA",
+            "RU": "- , (syn.) (syn.) - , (syn.)",
+            "ZH": ", (syn.) ACE"
+        }
+    },
+    {
+        "indice": "7",
+        "termo_en": "anosmia",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Disorder characterized by loss of smell.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Anosmie",
+            "ES": "anosmia",
+            "FR": "anosmie",
+            "JA": "",
+            "KO": "",
+            "PT": "anosmia",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "8",
+        "termo_en": "antibody",
+        "sinonimo_en": "immunoglobulin",
+        "categoria": "SCIE, Biology",
+        "definicao": "Protein produced by B lymphocytes that can recognize and neutralize an antigen.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Antikrper, (syn.) Immunglobulin",
+            "ES": "anticuerpo, (syn.) inmunoglobulina",
+            "FR": "anticorps, (syn.) immunoglobuline",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "anticorpo, (syn.) imunoglobulina",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "9",
+        "termo_en": "antigen",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Particle, typically a protein, which the immune system recognizes as foreign.",
+        "traducoes": {
+            "AR": "( syn. )",
+            "DE": "Antigen",
+            "ES": "antgeno",
+            "FR": "antigne",
+            "JA": "",
+            "KO": "",
+            "PT": "antgeno",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "10",
+        "termo_en": "asymptomatic transmission",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of transmission of an infectious disease to another person from an infected person who does not develop symptoms.",
+        "traducoes": {
+            "AR": "",
+            "DE": "asymptomatische bertragung",
+            "ES": "transmisin asintomtica",
+            "FR": "transmission asymptomatique",
+            "JA": "",
+            "KO": "",
+            "PT": "transmisso assintomtica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "11",
+        "termo_en": "attack rate",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Proportion of people that contract a disease in a population initially free of the disease, i.e. during a disease outbreak.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Befallsrate",
+            "ES": "tasa de ataque",
+            "FR": "taux d'attaque",
+            "JA": "",
+            "KO": "",
+            "PT": "taxa de ataque",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "12",
+        "termo_en": "basic reproduction number",
+        "sinonimo_en": "basic reproduction ratio, basic reproductive",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "ratio, Average number of secondary cases that one case produces in a population at risk.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Basisreproduktionszahl, (syn.)",
+            "ES": "nmero bsico de reproduccin, (syn.) , tasa de contagio, tasa de reproduccin",
+            "FR": "taux de reproduction de base, (syn.)",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "nmero bsico de reproduo, (syn.)",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "13",
+        "termo_en": "biostatistics",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Application of statistical methods and tools to the fields of biological sciences and medicine, including study design, data collection and analysis, and interpretation of findings.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Biostatistik",
+            "ES": "bioestadstica",
+            "FR": "biostatistique",
+            "JA": "",
+            "KO": "",
+            "PT": "bioestatstica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "14",
+        "termo_en": "blood plasma",
+        "sinonimo_en": "plasma",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Liquid part of the blood in which red and white blood cells and platelets are suspended and which carries such blood cells as well as proteins, mineral salts, sugars, fats, and hormones throughout the body.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Blutplasma",
+            "ES": "plasma sanguneo, (syn.) plasma",
+            "FR": "plasma sanguin, (syn.) plasma",
+            "JA": "",
+            "KO": "",
+            "PT": "plasma sanguneo, (syn.) plasma",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "15",
+        "termo_en": "case",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Person who is diagnosed as having a disease.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Fall",
+            "ES": "caso",
+            "FR": "cas",
+            "JA": "",
+            "KO": "",
+            "PT": "caso",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "16",
+        "termo_en": "case definition",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Set of criteria used to decide whether a person has contracted a specific disease.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Falldefinition",
+            "ES": "definicin de caso",
+            "FR": "dfinition de cas",
+            "JA": "",
+            "KO": "",
+            "PT": "definio de caso",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "17",
+        "termo_en": "case fatality rate",
+        "sinonimo_en": "CFR",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Proportion of people who die of a given disease out of all the confirmed cases.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Fall-Verstorbenen-Anteil",
+            "ES": "tasa de letalidad",
+            "FR": "taux de ltalit",
+            "JA": ", (syn.) CFR",
+            "KO": ", (syn.)",
+            "PT": "taxa de letalidade, (syn.) taxa de letalidade dos casos",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "18",
+        "termo_en": "casual contact",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Person who has been in the proximity of a person affected by an infectious disease but does not live with or care for the infected person.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Kontaktperson der Kategorie II",
+            "ES": "contacto ocasional",
+            "FR": "contact occasionnel",
+            "JA": "",
+            "KO": "",
+            "PT": "contato casual, (syn.) contacto casual (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "19",
+        "termo_en": "chain of infection",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Process in which an infectious agent leaves its reservoir or host through a portal of exit, is conveyed by a mode of transmission, and enters a susceptible host through a portal of entry.",
+        "traducoes": {
+            "AR": "",
+            "DE": "bertragungskette",
+            "ES": "cadena de transmission, (syn.) cadena epidemiolgica",
+            "FR": "chane de transmission",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "cadeia de transmisso",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "20",
+        "termo_en": "chloroquine",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pharmacology",
+        "definicao": "Quinoline that is substituted at position 4 by a [5- (diethylamino)pentan-2-yl]amino group and at position 7 by chlorine and is used for the treatment of e.g. malaria, lupus erythematosus, and rheumatoid arthritis.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Chloroquin",
+            "ES": "cloroquina",
+            "FR": "chloroquine",
+            "JA": "",
+            "KO": "",
+            "PT": "cloroquina",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "21",
+        "termo_en": "close contact",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Person who lives with, cares for, or has direct contact with the respiratory secretions or body fluids of, a person affected by an infectious disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Kontaktperson der Kategorie I",
+            "ES": "contacto cercano",
+            "FR": "contact troit",
+            "JA": "",
+            "KO": "",
+            "PT": "contato prximo, (syn.) contacto prximo (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "22",
+        "termo_en": "cluster",
+        "sinonimo_en": "disease cluster",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Aggregation of cases of a disease within a given place and time.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Cluster",
+            "ES": "conglomerado de casos",
+            "FR": "cluster",
+            "JA": "",
+            "KO": "",
+            "PT": "conglomerado",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "23",
+        "termo_en": "computed tomography",
+        "sinonimo_en": "computer-assisted tomography,",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "computerized tomography, CT Medical imaging technique by which three-dimensional images of the body are obtained by directing a beam of x-rays at the patient and quickly rotating them around the patient's body, producing cross-sectional images that are then stacked together by a computed tomography scanner.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Computertomographie, CT",
+            "ES": "tomografa computarizada, (syn.) TC",
+            "FR": "tomographie assiste par ordinateur, (syn.) tomodensitomtrie, TDM",
+            "JA": "",
+            "KO": ", (syn.)  , CT",
+            "PT": "tomografia computadorizada, (syn.) tomografia computorizada, TC",
+            "RU": ", (syn.) KT",
+            "ZH": ", (syn.) ,"
+        }
+    },
+    {
+        "indice": "24",
+        "termo_en": "confirmed case",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Case that is confirmed by a laboratory test.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "besttigter Fall",
+            "ES": "caso confirmado, (syn.) paciente confirmado",
+            "FR": "cas positif",
+            "JA": ", (syn.)",
+            "KO": ", (syn.)",
+            "PT": "caso confirmado",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "25",
+        "termo_en": "contact",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Person who has been in the proximity of another person affected by an infectious disease and who is at risk of having contracted this disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Kontaktperson",
+            "ES": "contacto",
+            "FR": "contact, (syn.) personne contact",
+            "JA": "",
+            "KO": "",
+            "PT": "contato, (syn.) contacto (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "26",
+        "termo_en": "contact follow-up",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Process of monitoring the contacts of a case for symptoms of the disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Kontaktpersonen-Nachverfolgung",
+            "ES": "seguimiento de contactos",
+            "FR": "suivi des contacts",
+            "JA": "",
+            "KO": "",
+            "PT": "seguimento de contatos, (syn.) acompanhamento de contatos",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "27",
+        "termo_en": "contact identification",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Process aimed at identifying all contacts of a case by asking about the activities of the case and the activities and roles of the people around the case since the onset of the disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Identifizierung von Kontaktpersonen",
+            "ES": "identificacin de contactos",
+            "FR": "identification des contacts",
+            "JA": "",
+            "KO": "",
+            "PT": "identificao de contatos, (syn.) identificao de contactos (pt-PT)",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "28",
+        "termo_en": "contact tracing",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Process of identification, listing and follow-up of contacts.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Contact Tracing",
+            "ES": "rastreo de contactos",
+            "FR": "traage des contacts",
+            "JA": "",
+            "KO": "",
+            "PT": "rastreamento de contatos, (syn.) rastreamento de contactos (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "29",
+        "termo_en": "containment",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Strategy adopted by a public body to cut off transmission of a disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Eindmmung",
+            "ES": "contencin",
+            "FR": "endiguement",
+            "JA": "",
+            "KO": "",
+            "PT": "conteno",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "30",
+        "termo_en": "convalescent plasma therapy",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Therapeutics",
+        "definicao": "Therapeutic treatment whereby the blood plasma donated by individuals who have recovered from an infectious disease is introduced into the blood of people who are suffering from the same disease in order to help control the symptoms and limit the progression of the disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Therapie mit Rekonvaleszentenplasma",
+            "ES": "tratamiento con plasma de convalecientes",
+            "FR": "utilisation thrapeutique de plasma de convalescents",
+            "JA": "",
+            "KO": "",
+            "PT": "terapia com plasma convalescente, (syn.) tratamento com plasma convalescente",
+            "RU": "",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "31",
+        "termo_en": "coronavirus",
+        "sinonimo_en": "CoV",
+        "categoria": "SCIE, Biology",
+        "definicao": "Family of viruses that consist of a core comprising a positive-sense single-stranded RNA, an envelope, a capsid, and spikes.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Coronavirus",
+            "ES": "coronavirus, (syn.) CoV",
+            "FR": "coronavirus, (syn.) CoV",
+            "JA": "",
+            "KO": "",
+            "PT": "coronavrus, (syn.) CoV",
+            "RU": "",
+            "ZH": ", (syn.) CoV"
+        }
+    },
+    {
+        "indice": "32",
+        "termo_en": "coronavirus disease 2019",
+        "sinonimo_en": "COVID-19",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Infectious disease caused by SARS-CoV-2.",
+        "traducoes": {
+            "AR": "-",
+            "DE": "Covid-19",
+            "ES": "enfermedad por coronavirus 2019, (syn.) covid-19",
+            "FR": "COVID-19, (syn.) Covid-19, covid-19",
+            "JA": ", (syn.) COVID-19",
+            "KO": "-19",
+            "PT": "doena do coronavrus 2019, (syn.) COVID-19",
+            "RU": "2019 , (syn.) COVID-19",
+            "ZH": "2019 , (syn.) COVID-19"
+        }
+    },
+    {
+        "indice": "33",
+        "termo_en": "cough reflex",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Body's natural response to help clear irritants from the airways.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Hustenreflex",
+            "ES": "reflejo tusgeno, (syn.) reflejo de la tos",
+            "FR": "rflexe tussigne",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "reflexo de tosse",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "34",
+        "termo_en": "cytokine release syndrome",
+        "sinonimo_en": "CRS",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Systemic inflammatory response syndrome caused by a large and rapid release of cytokines into the blood, which may be triggered by different factors, e.g. a viral infection or the use of certain drugs in immunotherapy.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Zytokin-Freisetzungssyndrom",
+            "ES": "sndrome de liberacin de citocinas, (syn.) tormenta de citocinas",
+            "FR": "syndrome de libration de cytokines",
+            "JA": ", (syn.) CRS",
+            "KO": "",
+            "PT": "sndrome de liberao de citocinas",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "35",
+        "termo_en": "death-to-case ratio",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Number of deaths attributed to a particular disease in a specified period divided by the number of new cases of the disease identified during the same period.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Sterblichkeitsrate",
+            "ES": "razn de muertes por casos nuevos",
+            "FR": "taux de mortalit",
+            "JA": "",
+            "KO": "",
+            "PT": "taxa de mortalidade",
+            "RU": "c",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "36",
+        "termo_en": "direct contact transmission",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by direct contact or droplet transmission.",
+        "traducoes": {
+            "AR": "",
+            "DE": "direkte Kontaktbertagung, (syn.) direkte bertragung",
+            "ES": "transmisin directa",
+            "FR": "transmission par contact direct",
+            "JA": "",
+            "KO": "",
+            "PT": "transmisso direta",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "37",
+        "termo_en": "disease",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Abnormal condition that has a negative impact on the structure or function of all or part of an organism, generally associated with certain signs and symptoms.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Krankheit",
+            "ES": "enfermedad",
+            "FR": "maladie",
+            "JA": ", (syn.)",
+            "KO": ", (syn.)",
+            "PT": "doena",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "38",
+        "termo_en": "disease outbreak",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Cluster of a disease with a common cause and an overall number of cases that is inferior to that of an epidemic.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Ausbruch",
+            "ES": "brote epidmico",
+            "FR": "flambe pidmique",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "surto",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "39",
+        "termo_en": "deoxyribonucleic acid",
+        "sinonimo_en": "DNA",
+        "categoria": "SCIE, Biochemistry",
+        "definicao": "Double-stranded nucleic acid whose nucleotides consist of a backbone made up by a modified sugar, called deoxyribose, a nitrogenous base, i.e. adenine, guanine, cytosine, and thymine, and a phosphate group.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Desoxyribonukleinsure, (syn.) Desoxyribonucleinsure, DNA, DNS",
+            "ES": "cido desoxirribonucleico, (syn.) ADN",
+            "FR": "acide dsoxyribonuclique, (syn.) ADN",
+            "JA": ", (syn.) DNA",
+            "KO": ", (syn.) DNA",
+            "PT": "cido desoxirribonucleico, (syn.) ADN",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) DNA"
+        }
+    },
+    {
+        "indice": "40",
+        "termo_en": "drive-through testing",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Method of performing swab tests on people whilst they remain in their vehicles.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Drive-in fr Corona-Test",
+            "ES": "prueba desde el auto",
+            "FR": "test de dpistage en voiture",
+            "JA": "",
+            "KO": "",
+            "PT": "rastreio drive-through",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "41",
+        "termo_en": "droplet nucleus",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Dried residue, approximately  5 m in diameter, which results from the evaporation of droplets coughed or sneezed into the air.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Trpfchenkern",
+            "ES": "ncleo goticular",
+            "FR": "noyau de gouttelettes",
+            "JA": "",
+            "KO": "",
+            "PT": "ncleo goticular",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "42",
+        "termo_en": "droplet transmission",
+        "sinonimo_en": "droplet spread",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of direct transmission of an infectious disease that occurs when a person is in the proximity of an infected person who has respiratory symptoms, e.g., via coughing, sneezing, breathing, or talking.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Trpchenbertragung",
+            "ES": "transmisin por gotculas",
+            "FR": "transmission par gouttelettes",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "transmisso por gotculas respiratrias, (syn.) transmisso por gotculas",
+            "RU": "-",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "43",
+        "termo_en": "elimination",
+        "sinonimo_en": "suppression, elimination strategy",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Strategy adopted by a public body to reduce to zero the incidence of a disease in a given geographical area.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Tilgung",
+            "ES": "eliminacin",
+            "FR": "limination",
+            "JA": "",
+            "KO": "",
+            "PT": "eliminao",
+            "RU": "c",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "44",
+        "termo_en": "endemic disease",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene Public health & hygiene",
+        "definicao": "Disease for which there are as many cases as would be expected in a given population at a given time.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Endemie",
+            "ES": "endemia",
+            "FR": "endmie",
+            "JA": "",
+            "KO": "",
+            "PT": "doena endmica, (syn.) doena endmica (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "45",
+        "termo_en": "environmental cleaning",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Set of actions and processes, including cleaning, disinfecting and monitoring, implemented in places at risk of spread of an infectious agent through contaminated objects.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Krankenhaushygiene",
+            "ES": "limpieza ambiental",
+            "FR": "nettoyage de l'environnement",
+            "JA": "",
+            "KO": "",
+            "PT": "limpeza ambiental",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "46",
+        "termo_en": "epidemic curve",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Graphical representation of the incidence of a disease or other health-related event plotted over time.",
+        "traducoes": {
+            "AR": "",
+            "DE": "epidemische Kurve",
+            "ES": "curva epidemiolgica",
+            "FR": "courbe pidmique",
+            "JA": "",
+            "KO": "",
+            "PT": "curva epidmica, (syn.) curva epidmica (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "47",
+        "termo_en": "epidemic disease",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Disease for which there are many more cases than would be expected at a given time in a given population and which can be ascribed to the same cause.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Epidemie",
+            "ES": "epidemia",
+            "FR": "pidmie",
+            "JA": "",
+            "KO": "",
+            "PT": "epidemia, (syn.) doena epidmica, doena epidmica (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "48",
+        "termo_en": "epidemic threshold",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Number of individuals within a population at risk that is required for an epidemic to occur.",
+        "traducoes": {
+            "AR": "",
+            "DE": "epidemische Schwelle",
+            "ES": "umbral epidmico",
+            "FR": "seuil pidmique",
+            "JA": "",
+            "KO": "",
+            "PT": "limite epidmico, (syn.) limiar epidmico, limiar epidmico (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "49",
+        "termo_en": "epidemiology",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Scientific study of the occurrence of a disease or other health-related event in specified populations, and its application to the control of health problems.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Epidemiologie",
+            "ES": "epidemiologa",
+            "FR": "pidmiologie",
+            "JA": "",
+            "KO": "",
+            "PT": "epidemiologia",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "50",
+        "termo_en": "fever",
+        "sinonimo_en": "pyrexia",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Innate immune response mechanism that increases a person's body temperature above the normal level.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Fieber",
+            "ES": "fiebre",
+            "FR": "fivre",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "febre",
+            "RU": ", (syn.)",
+            "ZH": "(syn.)"
+        }
+    },
+    {
+        "indice": "51",
+        "termo_en": "filtering facepiece respirator",
+        "sinonimo_en": "filtering face-piece respirator, FFR",
+        "categoria": "ENVR, Personal protective equipment",
+        "definicao": "Respiratory protective equipment that uses filters to remove hazardous substances from the air being breathed by the wearer.",
+        "traducoes": {
+            "AR": "",
+            "DE": "partikelfiltrierende Halbmaske",
+            "ES": "mascarilla autofiltrante",
+            "FR": "masque de protection respiratoire, (syn.) masque FFP",
+            "JA": "",
+            "KO": "",
+            "PT": "mscara autofiltrante",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "52",
+        "termo_en": "fomite",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Inanimate object contaminated by an infectious agent that can indirectly transmit an infectious disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "unbelebter Vektor",
+            "ES": "fmite, (syn.) vector pasivo",
+            "FR": "vecteur passif",
+            "JA": "",
+            "KO": "",
+            "PT": "fmite, (syn.) fmite (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "53",
+        "termo_en": "full face shield",
+        "sinonimo_en": "face shield  full-face visor  visor",
+        "categoria": "ENVR, Personal protective equipment",
+        "definicao": "Personal protective equipment that protects the wearer's eyes and face from sprays, splashes, and large-particle droplets, and prevents the spread of respiratory droplets from the wearer to others.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Gesichtsschutz",
+            "ES": "pantalla facial",
+            "FR": "visire",
+            "JA": "",
+            "KO": "",
+            "PT": "viseira de proteo facial",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "54",
+        "termo_en": "gene",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Genetics",
+        "definicao": "Sequence of DNA that carries the required information for making a specific molecule, typically a protein.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Gen",
+            "ES": "gen",
+            "FR": "gne",
+            "JA": "",
+            "KO": "",
+            "PT": "gene",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "55",
+        "termo_en": "gene therapy",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Therapeutics",
+        "definicao": "Therapeutic treatment whereby one or more foreign genes are inserted into the genome of an organism by means of a vector, to compensate for abnormal genes or to help the organism produce a protein that can be beneficial for it.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Gentherapie",
+            "ES": "genoterapia, (syn.) terapia gnica",
+            "FR": "thrapie gnique",
+            "JA": "",
+            "KO": "",
+            "PT": "terapia gnica, (syn.) terapia gnica (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "56",
+        "termo_en": "genome",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Genetics",
+        "definicao": "Complete set of DNA of a living organism, including all of its genes.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Genom",
+            "ES": "genoma",
+            "FR": "gnome",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "genoma",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "57",
+        "termo_en": "hand sanitizer",
+        "sinonimo_en": "n.d.",
+        "categoria": "CHEM, Detergents & cleaning agents",
+        "definicao": "Gel, foam, or liquid used for handwashing that may or may not contain alcohol.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Hndedesinfektionsmittel",
+            "ES": "gel hidroalcohlico, (syn.) alcohol en gel",
+            "FR": "dsinfectant pour les mains",
+            "JA": "",
+            "KO": "",
+            "PT": "gel desinfetante, (syn.) lcool-gel",
+            "RU": ", (syn.) ,",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "58",
+        "termo_en": "hand washing",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Action of removing any unwanted substance or microorganism from a person's hands using water or another liquid, with or without soap or other detergents.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Hndewaschen",
+            "ES": "lavado de las manos",
+            "FR": "lavage des mains",
+            "JA": "",
+            "KO": "",
+            "PT": "lavagem das mos",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "59",
+        "termo_en": "herd immunity",
+        "sinonimo_en": "community immunity",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Indirect protection from an infectious agent achieved in a population at risk when a sufficiently large proportion of individuals in the population show an acquired immunity to that infectious agent.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Herdenimmunitt",
+            "ES": "inmunidad de grupo, (syn.) inmunidad colectiva, inmunidad de rebao",
+            "FR": "immunit de groupe",
+            "JA": "",
+            "KO": "",
+            "PT": "imunidade de grupo, (syn.) imunidade comunitria",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "60",
+        "termo_en": "high-risk group",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Part of a population at risk that has higher than average prevalence, incidence or severity of a disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "besonders gefhrdete Personengruppe",
+            "ES": "grupo de alto riesgo",
+            "FR": "groupe  haut risque",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "grupo de alto risco",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "61",
+        "termo_en": "hospital gown",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical equipment",
+        "definicao": "Garment of personal protective equipment worn in healthcare settings to reduce the risk of exposure to infectious agents.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Schutzkittel",
+            "ES": "bata quirrgica",
+            "FR": "casaque",
+            "JA": "",
+            "KO": "",
+            "PT": "bata hospitalar",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "62",
+        "termo_en": "hospitalization",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Admission and stay of a patient in a hospital for treatment.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Krankenhausaufenthalt",
+            "ES": "hospitalizacin",
+            "FR": "hospitalisation",
+            "JA": "",
+            "KO": "",
+            "PT": "hospitalizao",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "63",
+        "termo_en": "host",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Person or animal infected by an infectious agent.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Wirt",
+            "ES": "hospedador, (syn.) hospedero",
+            "FR": "hte",
+            "JA": "",
+            "KO": "",
+            "PT": "hospedeiro",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "64",
+        "termo_en": "hygiene",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Set of practices that help to maintain health and prevent the spread of diseases.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Hygiene",
+            "ES": "higiene",
+            "FR": "hygine",
+            "JA": "",
+            "KO": "",
+            "PT": "higiene",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "65",
+        "termo_en": "immune response",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Reaction of the immune system of an organism to potentially harmful stimuli.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Immunantwort",
+            "ES": "respuesta inmunitaria, (syn.) respuesta immune",
+            "FR": "rponse immunitaire, (syn.) raction immunitaire",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "resposta imunitria, (syn.) resposta imune, resposta imunolgica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "66",
+        "termo_en": "immune system",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Network of cells and antibodies that defends the body against the attack of agents perceived as extraneous and potentially harmful to it by triggering an immune response, which can be specific (adaptive) or not specific (innate).",
+        "traducoes": {
+            "AR": "",
+            "DE": "Immunsystem",
+            "ES": "sistema inmunitario, (syn.) sistema inmunolgico",
+            "FR": "systme immunitaire",
+            "JA": "",
+            "KO": "",
+            "PT": "sistema imunitrio, (syn.) sistema imunolgico, sistema imune",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "67",
+        "termo_en": "immunity",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Condition of being protected against an infectious disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Immunitt",
+            "ES": "inmunidad",
+            "FR": "immunit",
+            "JA": "",
+            "KO": "",
+            "PT": "imunidade",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "68",
+        "termo_en": "imported case",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Case who has a history of travel from an affected area some time before the onset of the disease and cannot be linked to local transmission.",
+        "traducoes": {
+            "AR": "",
+            "DE": "importierter Fall",
+            "ES": "caso importado",
+            "FR": "cas import",
+            "JA": "",
+            "KO": "",
+            "PT": "caso importado",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "69",
+        "termo_en": "incidence",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "New cases of a disease arising in a given period in a population at risk.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Incidenz",
+            "ES": "incidencia",
+            "FR": "incidence",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "incidncia",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "70",
+        "termo_en": "incubation period",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Lapse of time between the exposure to an infectious agent and the onset of the symptoms of a disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Inkubationszeit",
+            "ES": "perodo de incubacin",
+            "FR": "priode d'incubation",
+            "JA": "",
+            "KO": "",
+            "PT": "perodo de incubao",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "71",
+        "termo_en": "index case",
+        "sinonimo_en": "index patient",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "The first known case of the outbreak of a disease in a cluster.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Indexfall",
+            "ES": "caso ndice",
+            "FR": "cas index",
+            "JA": ", (syn.) ,",
+            "KO": ", (syn.)",
+            "PT": "caso ndice",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "72",
+        "termo_en": "indirect contact transmission",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of transmission that occurs when an infectious agent is transferred from a reservoir to a host by means of a vehicle, i.e. water, food or air, a vector or a fomite.",
+        "traducoes": {
+            "AR": "",
+            "DE": "indirekte Kontaktbertragung",
+            "ES": "transmisin indirecta",
+            "FR": "transmission par contact indirect",
+            "JA": "",
+            "KO": "",
+            "PT": "transmisso indireta",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "73",
+        "termo_en": "infection fatality rate",
+        "sinonimo_en": "IFR",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Proportion of people who will die of a certain disease out of all those who have been infected.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Infizierten-Verstorbenen-Anteil",
+            "ES": "tasa de letalidad",
+            "FR": "taux de mortalit par infection, (syn.) IFR",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "taxa de letalidade da infeco, (syn.) letalidade dos infectados",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "74",
+        "termo_en": "infectious agent",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Biological agent that may or may not cause an infectious disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Infektionserreger",
+            "ES": "agente infeccioso",
+            "FR": "agent infectieux",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "agente infeccioso",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "75",
+        "termo_en": "infectious disease",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Disease caused by a pathogen.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Infektionskrankheit",
+            "ES": "enfermedad infecciosa",
+            "FR": "maladie infectieuse",
+            "JA": "",
+            "KO": "",
+            "PT": "doena infecciosa",
+            "RU": "oe e",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "76",
+        "termo_en": "infectivity",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Ability of an infectious agent to enter, survive, and multiply in a host.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Infektiositt",
+            "ES": "infecciosidad",
+            "FR": "infectiosit",
+            "JA": "",
+            "KO": "",
+            "PT": "infecciosidade, (syn.) infectividade",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "77",
+        "termo_en": "inflammation",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Series of innate immunity processes initiated by the body in response to an injury.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Entzndung",
+            "ES": "inflamacin",
+            "FR": "inflammation",
+            "JA": "",
+            "KO": "",
+            "PT": "inflamao",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "78",
+        "termo_en": "intensive care unit",
+        "sinonimo_en": "critical care unit, ICU, CCU",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Hospital facility that provides critical care and life support for acutely ill or injured patients.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Intensivstation",
+            "ES": "unidad de cuidados intensivos, (syn.) unidad de terapia intensiva, UCI, UTI",
+            "FR": "unit de soins intensifs, (syn.) USI",
+            "JA": ", (syn.) ICU",
+            "KO": ", (syn.)",
+            "PT": "unidade de cuidados intensivos, (syn.) UCI",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "79",
+        "termo_en": "intubation",
+        "sinonimo_en": "endotracheal intubation",
+        "categoria": "MEDI, Surgery",
+        "definicao": "Invasive lung ventilation method in which a tube is inserted into the patient's trachea through the mouth or nose.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Intubation, (syn.) Intubierung",
+            "ES": "intubacin",
+            "FR": "intubation",
+            "JA": "",
+            "KO": "",
+            "PT": "intubao",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "80",
+        "termo_en": "laboratory test",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Diagnostic test performed on samples of a person's body, e.g. blood, urine, saliva, tissues, typically in specially equipped facilities.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Labortest",
+            "ES": "prueba de laboratorio",
+            "FR": "examen de laboratoire",
+            "JA": "",
+            "KO": "",
+            "PT": "teste laboratorial",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "81",
+        "termo_en": "lockdown",
+        "sinonimo_en": "confinement",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Strategy adopted by a public body because of an emergency that requires people to remain in a certain location which they may not leave other than for exceptional reasons.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Massenquarantne",
+            "ES": "confinamiento",
+            "FR": "confinement",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "confinamento",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "82",
+        "termo_en": "magnetic resonance imaging",
+        "sinonimo_en": "magnetic resonance tomography, nuclear",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "magnetic resonance imaging, MRI, MRT, NMRI Medical imaging technique by which three-dimensional images of the body are obtained by exciting protons present in the water of living tissues and detecting the change in the direction of their rotational axis by means of a magnetic resonance imaging scanner.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Magnetresonanztomographie, (syn.) MRT, Kernspintomographie, Magnetresonanz-Bildgebung",
+            "ES": "imagen por resonancia magntica, (syn.) IRM",
+            "FR": "imagerie par rsonance magntique, (syn.) imagerie par rsonance magntique nuclaire, IRM",
+            "JA": "",
+            "KO": ", (syn.) , MRI",
+            "PT": "imagiologia por ressonncia magntica, (syn.) IRM",
+            "RU": "- , (syn.) - ,",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "83",
+        "termo_en": "mask",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Commercially produced or homemade covering for nose and mouth used to reduce the spread of respiratory droplets from the wearer to others.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Atemschutzmaske",
+            "ES": "mascarilla, (syn.) barbijo (es-AR), tapaboca (es-CU)",
+            "FR": "masque",
+            "JA": "",
+            "KO": "",
+            "PT": "mscara",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "84",
+        "termo_en": "mechanical ventilation",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Lung ventilation provided by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure.",
+        "traducoes": {
+            "AR": "",
+            "DE": "maschinelle Beatmung",
+            "ES": "ventilacin mecnica",
+            "FR": "ventilation artificielle",
+            "JA": ", (syn.) MV",
+            "KO": "",
+            "PT": "ventilao mecnica",
+            "RU": ", (syn.) ,",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "85",
+        "termo_en": "mechanical ventilator",
+        "sinonimo_en": "ventilator",
+        "categoria": "MEDI, Medical equipment",
+        "definicao": "Machine that helps patients to breathe by driving fresh air into the lungs by positive pressure and/or by pumping expiratory air out of the lungs by negative pressure, replacing some or all of the muscular effort required for lung ventilation.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Beatmungsgert, (syn.) mechanischer Ventilator, Respirator",
+            "ES": "respirador, (syn.) ventilador mecnico",
+            "FR": "ventilateur mcanique",
+            "JA": "",
+            "KO": "",
+            "PT": "ventilador mecnico",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "86",
+        "termo_en": "medical care",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Administration and delivery of healthcare by professionals.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "medizinische Versorgung",
+            "ES": "atencin mdica",
+            "FR": "soins mdicaux",
+            "JA": "",
+            "KO": "",
+            "PT": "cuidado mdico",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "87",
+        "termo_en": "medical glove",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical equipment",
+        "definicao": "Personal protective equipment for the hands typically worn by healthcare professionals to protect themselves from exposure to infectious agents or other biological, chemical or physical hazards.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Einmalhandschuh",
+            "ES": "guante mdico",
+            "FR": "gant mdical",
+            "JA": "",
+            "KO": "",
+            "PT": "luva mdica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "88",
+        "termo_en": "mitigation",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Strategy adopted by a public body to reduce the number of infected people in a given geographical area and limit the impact on the health system of a disease outbreak.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Folgenminderungsstrategie",
+            "ES": "mitigacin",
+            "FR": "stratgie d'attnuation",
+            "JA": "",
+            "KO": "",
+            "PT": "mitigao",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "89",
+        "termo_en": "mode of transmission",
+        "sinonimo_en": "route of transmission",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Means by which an infectious agent spreads from one host to another.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "bertragungsweg",
+            "ES": "va de transmisin",
+            "FR": "mode de transmission",
+            "JA": "",
+            "KO": "",
+            "PT": "modo de transmisso",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "90",
+        "termo_en": "monoclonal antibody",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Therapeutics",
+        "definicao": "Laboratory-produced molecule that targets and attacks specific antigens, thereby triggering a specific immune response.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "monoklonaler Antikrper",
+            "ES": "anticuerpo monoclonal",
+            "FR": "anticorps monoclonal",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "anticorpo monoclonal",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "91",
+        "termo_en": "morbidity",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Level of health and well-being of an individual.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Morbiditt",
+            "ES": "morbilidad",
+            "FR": "morbidit",
+            "JA": "",
+            "KO": "",
+            "PT": "morbidade",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "92",
+        "termo_en": "multiple organ failure",
+        "sinonimo_en": "multiorgan failure, MOF",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Inability of two or more organs or organ systems to perform their function.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Multiorganversagen, (syn.) MOV",
+            "ES": "insuficiencia multiorgnica, (syn.) fallo multiorgnico",
+            "FR": "dfaillance multiviscrale, (syn.) dfaillance polyviscrale",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "falncia multiorgnica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "93",
+        "termo_en": "nasopharyngeal swab test",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Method of collecting a specimen of nasal secretions for diagnostic purposes by inserting a swab into each nostril, extending it back into the nasopharynx, leaving it in place for a few seconds, and slowly withdrawing it with a rotating motion.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Nasen-Rachen-Abstrich",
+            "ES": "hisopado nasofarngeo",
+            "FR": "prlvement nasopharyng",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "esfregao nasofarngeo, (syn.) exsudado nasofarngeo",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "94",
+        "termo_en": "non-invasive ventilation",
+        "sinonimo_en": "NIV",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Positive pressure ventilation provided through a person's upper respiratory airways using an oxygen mask.",
+        "traducoes": {
+            "AR": "",
+            "DE": "nicht-invasive Beatmung",
+            "ES": "ventilacin no invasiva, (syn.) VNI",
+            "FR": "ventilation non invasive",
+            "JA": ", (syn.) NIV",
+            "KO": "",
+            "PT": "ventilao no-invasiva, (syn.) VNI",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "95",
+        "termo_en": "nucleotide sequence",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biochemistry",
+        "definicao": "Sequence of the repeating units of DNA or RNA.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Nukleotidsequenz",
+            "ES": "secuencia nucleotdica, (syn.) secuencia de nucletidos",
+            "FR": "squence nuclotidique",
+            "JA": "",
+            "KO": "",
+            "PT": "sequncia nucleotdica, (syn.) seqncia nucleotdica (pt-BR)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "96",
+        "termo_en": "pandemic",
+        "sinonimo_en": "pandemic disease",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Epidemic disease that has spread to different countries and continents.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Pandemie",
+            "ES": "pandemia",
+            "FR": "pandmie",
+            "JA": ", (syn.)",
+            "KO": ", (syn.)",
+            "PT": "pandemia",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "97",
+        "termo_en": "pandemic preparedness",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Ability of a public body to deal with a threat to human health caused by a pandemic by ensuring that appropriate response plans are in place.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Pandemievorbereitung",
+            "ES": "preparacin para pandemias",
+            "FR": "prparation  une pandmie",
+            "JA": "",
+            "KO": "",
+            "PT": "preparao para pandemia",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "98",
+        "termo_en": "pathogen",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Infectious agent causing a disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Pathogen",
+            "ES": "microorganismo patgeno, (syn.) patgeno",
+            "FR": "agent pathogne",
+            "JA": "",
+            "KO": "",
+            "PT": "patgeno",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "99",
+        "termo_en": "personal protective equipment",
+        "sinonimo_en": "PPE",
+        "categoria": "ENVR, Personal protective equipment",
+        "definicao": "Gear worn by an individual that provides protection against one or more risks to a person's health and safety.",
+        "traducoes": {
+            "AR": "",
+            "DE": "persnliche Schutzausrstung, (syn.) PSA",
+            "ES": "equipo de proteccin individual, (syn.) EPI",
+            "FR": "quipement de protection individuelle, (syn.) EPI",
+            "JA": ", (syn.) PPE",
+            "KO": "",
+            "PT": "equipamento de proteo individual, (syn.) EPI",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) PPE"
+        }
+    },
+    {
+        "indice": "100",
+        "termo_en": "pharmacoepidemiology",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pharmacology",
+        "definicao": "Study of the use and effects of drugs in large numbers of people, the aim of which is to estimate the probability of positive or negative effects of a drug.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Pharmakoepidemiologie",
+            "ES": "farmacoepidemiologa",
+            "FR": "pharmaco-pidmiologie",
+            "JA": "",
+            "KO": "",
+            "PT": "farmacoepidemiologia",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "101",
+        "termo_en": "point-of-care testing",
+        "sinonimo_en": "point-of-collection testing, POCT",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Method of performing a laboratory test at or near the site of patient care.",
+        "traducoes": {
+            "AR": "",
+            "DE": "patientennahe Sofortdiagnostik, (syn.) patientennahe Labordiagnostik, POCT",
+            "ES": "anlisis junto al paciente, (syn.) pruebas a la cabecera del paciente",
+            "FR": "analyses de biologie dlocalise, (syn.) ADBD",
+            "JA": ", (syn.) , POCT",
+            "KO": ", (syn.) POCT",
+            "PT": "teste laboratorial remoto, (syn.) teste de diagnstico rpido, TLR, TDR",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) POCT"
+        }
+    },
+    {
+        "indice": "102",
+        "termo_en": "polymerase chain reaction",
+        "sinonimo_en": "PCR",
+        "categoria": "SCIE, Genetics",
+        "definicao": "Molecular biology technique that applies high temperature and a DNA polymerase to a sample of DNA containing the target sequence, thereby producing copies of small segments of the original DNA for use in further molecular and genetic analysis.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Polymerasekettenreaktion, (syn.) Polymerase- Kettenreaktion, PCR",
+            "ES": "reaccin en cadena de la polimerasa, (syn.) RCP, PCR",
+            "FR": "amplification en chane par polymrase, (syn.) raction en chane par polymrase, raction en chane  la polymrase, ACP, PCR",
+            "JA": "",
+            "KO": ", (syn.) PCR",
+            "PT": "reao em cadeia da polimerase, (syn.) PCR",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) PCR"
+        }
+    },
+    {
+        "indice": "103",
+        "termo_en": "portal of entry",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Anatomical site at which an infectious agent enters a host.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Eintrittspforte",
+            "ES": "puerta de entrada",
+            "FR": "porte d'entre",
+            "JA": "",
+            "KO": "",
+            "PT": "porta de entrada, (syn.) via de entrada",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "104",
+        "termo_en": "portal of exit",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Anatomical site at which an infectious agent leaves a host.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Austrittspforte",
+            "ES": "puerta de salida",
+            "FR": "porte de sortie",
+            "JA": "",
+            "KO": "",
+            "PT": "porta de sada, (syn.) via de sada",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "105",
+        "termo_en": "pre-symptomatic transmission",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of transmission of an infectious disease to another person from an infected person who has not yet developed symptoms.",
+        "traducoes": {
+            "AR": "",
+            "DE": "prsymptomatische bertragung",
+            "ES": "transmisin presintomtica",
+            "FR": "transmission pr-symptomatique",
+            "JA": "",
+            "KO": "",
+            "PT": "transmisso pr-sintomtica",
+            "RU": "",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "106",
+        "termo_en": "prevalence",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "All cases of a disease observed at a given point in time in a population at risk.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Prvalenz",
+            "ES": "prevalencia",
+            "FR": "prvalence",
+            "JA": "",
+            "KO": "",
+            "PT": "prevalncia",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "107",
+        "termo_en": "primary case",
+        "sinonimo_en": "patient zero",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Case to whom the onset of the outbreak of a disease can be traced back.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Patient Null",
+            "ES": "caso inicial, (syn.) caso primario",
+            "FR": "patient zro",
+            "JA": "1",
+            "KO": "1  , (syn.)",
+            "PT": "caso primrio",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "108",
+        "termo_en": "probable case",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Case that is compatible with a clinical case definition and for whom there is strong epidemiological evidence of disease, e.g. the person is a contact of a confirmed case but no laboratory test confirmation is available.",
+        "traducoes": {
+            "AR": "",
+            "DE": "wahrscheinlicher Fall",
+            "ES": "caso probable",
+            "FR": "cas probable",
+            "JA": "",
+            "KO": "",
+            "PT": "caso provvel",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "109",
+        "termo_en": "public health",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Science of protecting and improving the health of people through the organized efforts of society by promoting a healthy lifestyle, preventing injuries, and preventing, detecting and responding to infectious diseases.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "ffentliches Gesundheitswesen",
+            "ES": "salud pblica",
+            "FR": "sant publique",
+            "JA": "",
+            "KO": "",
+            "PT": "sade pblica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "110",
+        "termo_en": "public health surveillance",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Ongoing systematic collection, analysis, and dissemination of health data to help guide public health decision making and action.",
+        "traducoes": {
+            "AR": "",
+            "DE": "epidemiologische berwachung",
+            "ES": "vigilancia de la salud pblica",
+            "FR": "surveillance pidmiologique, (syn.) surveillance de sant publique",
+            "JA": "",
+            "KO": "",
+            "PT": "vigilncia sanitria pblica, (syn.) vigilncia em sade pblica",
+            "RU": "-",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "111",
+        "termo_en": "quarantine",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Strategy adopted by a public body to keep apart from the general population for a certain period of time all individuals suspected of having contact with a person affected by an infectious disease or coming from an affected area, until it is confirmed that they have not contracted the disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Quarantne",
+            "ES": "cuarentena",
+            "FR": "quarantaine",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "quarentena",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "112",
+        "termo_en": "real-time reverse transcription-",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "polymerase chain reaction (syn.) real-time RT-PCR, rRT-PCR Reverse transcription polymerase chain reaction in which detection and quantification of amplified DNA sequences are performed after each PCR cycle.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Echtzeit RT-PCR",
+            "ES": "reaccin en cadena de la polimerasa con transcripcin inversa en tiempo real",
+            "FR": "RT-PCR en temps reel, (syn.) RT-PCR temps reel",
+            "JA": ", (syn.) Real-Time RT-PCR",
+            "KO": "",
+            "PT": "reao em cadeia da polimerase da transcrio reversa em tempo real, (syn.) RT-PCR em tempo real, rRT-PCR",
+            "RU": ", (syn.) --",
+            "ZH": ", (syn.) rRT-PCR"
+        }
+    },
+    {
+        "indice": "113",
+        "termo_en": "reservoir",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, BiologyCIE, Biology",
+        "definicao": "Natural habitat in which an infectious agent normally lives, grows, and multiplies.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Reservoir",
+            "ES": "reservorio",
+            "FR": "rservoir",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "reservatrio",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "114",
+        "termo_en": "respiratory disease",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathologyogy",
+        "definicao": "Disease affecting the airways and the lungs and hindering normal breathing, which may be caused by, e.g., infection, air pollution, or exposure to noxious substances.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Atemwegserkrankung",
+            "ES": "enfermedad respiratoria",
+            "FR": "maladie respiratoire",
+            "JA": "",
+            "KO": "",
+            "PT": "doena respiratria",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "115",
+        "termo_en": "respiratory droplet",
+        "sinonimo_en": "droplet",
+        "categoria": "MEDI, Anatomy & physiology",
+        "definicao": "Particle made of water, proteins, viral RNA, and non- volatile metabolites, which is >5-10 m in diameter and is exhaled from the nose and mouth of a person whilst e.g. coughing, sneezing breathing, or talking.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Trpfchen",
+            "ES": "gotcula",
+            "FR": "gouttelette",
+            "JA": ", (syn.)",
+            "KO": ", (syn.)",
+            "PT": "gotcula respiratria, (syn.) gotcula",
+            "RU": "",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "116",
+        "termo_en": "respiratory hygiene",
+        "sinonimo_en": "cough etiquette",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Set of practices and behaviours adopted by an individual with the aim of preventing the spread of respiratory diseases.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Husten-Nies-Etikette",
+            "ES": "higiene respiratoria",
+            "FR": "hygine respiratoire",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "higiene respiratria",
+            "RU": "",
+            "ZH": ", (syn.)"
+        }
+    },
+    {
+        "indice": "117",
+        "termo_en": "respiratory protective equipment",
+        "sinonimo_en": "respirator (en-US), RPE",
+        "categoria": "ENVR, Personal protective equipment",
+        "definicao": "Personal protective equipment that protects the wearer against inhalation of hazardous substances in the air, such as dust, fumes, gases, or biological substances.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Atemschutzgert",
+            "ES": "equipo de proteccin respiratoria",
+            "FR": "appareil de protection respiratoire, (syn.) APR",
+            "JA": "",
+            "KO": "",
+            "PT": "equipamento de proteo respiratria, (syn.) EPR, respirador",
+            "RU": ", (syn.) ,",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "118",
+        "termo_en": "risk factor",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Characteristic, condition, or behaviour that increases the likelihood that a person will contract a disease or sustain an injury.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Risikofaktor",
+            "ES": "factor de riesgo",
+            "FR": "facteur de risque",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "fator de risco",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "119",
+        "termo_en": "ribonucleic acid",
+        "sinonimo_en": "RNA",
+        "categoria": "SCIE, Biochemistry",
+        "definicao": "Single-stranded nucleic acid whose nucleotides consist of a backbone made up by a simple sugar, called ribose, a phosphate group, and a nitrogenous base, i.e. adenine, guanine, cytosine, and uracil.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Ribonukleinsure, (syn.) RNA, RNS",
+            "ES": "cido ribonucleico, (syn.) ARN",
+            "FR": "acide ribonuclique, (syn.) ARN",
+            "JA": ", (syn.) RNA",
+            "KO": "",
+            "PT": "cido ribonucleico, (syn.) RNA, ARN",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) RNA"
+        }
+    },
+    {
+        "indice": "120",
+        "termo_en": "self-isolation",
+        "sinonimo_en": "self-quarantine",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Measure taken by an individual in order to avoid contact with other people and thus help to prevent the spread of an infectious disease.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Selbst-Isolation",
+            "ES": "aislamiento voluntario",
+            "FR": "isolement",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "autoisolamento, (syn.) auto-isolamento",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "121",
+        "termo_en": "sepsis",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Organ dysfunction syndrome caused by an impairment of the physiological regulatory mechanisms via which a host responds to infection.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Sepsis",
+            "ES": "sepsis",
+            "FR": "sepsis",
+            "JA": "",
+            "KO": "",
+            "PT": "sepsis, (syn.) sepse",
+            "RU": "c",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "122",
+        "termo_en": "septic shock",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Class of sepsis in which abnormalities of circulation, i.e. persistent hypotension despite fluid resuscitation, and/or of cellular metabolism are serious enough to increase mortality substantially.",
+        "traducoes": {
+            "AR": "",
+            "DE": "septischer Schock",
+            "ES": "choque sptico",
+            "FR": "choc septique",
+            "JA": "",
+            "KO": ", (syn.)",
+            "PT": "choque sptico, (syn.) choque stico (pt-PT)",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "123",
+        "termo_en": "serologic test",
+        "sinonimo_en": "serological test, antibody test",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Laboratory test aimed at detecting in the blood serum of an individual the presence of antibodies produced in response to a given disease.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "serologischer Test",
+            "ES": "prueba serolgica, (syn.) prueba de anticuerpos",
+            "FR": "test srologique",
+            "JA": ", (syn.)",
+            "KO": ", (syn.)  ,",
+            "PT": "teste serolgico",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "124",
+        "termo_en": "severe acute respiratory syndrome",
+        "sinonimo_en": "SARS",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Infectious disease caused by SARS-CoV-1.",
+        "traducoes": {
+            "AR": "( syn. )",
+            "DE": "schweres akutes Atemnotsyndrom, (syn.) schweres akutes Atemwegssyndrom, SARS",
+            "ES": "sndrome respiratorio agudo grave, (syn.) SRAG",
+            "FR": "syndrome respiratoire aigu svre, (syn.) SRAS",
+            "JA": ", (syn.) SARS",
+            "KO": ", (syn.)",
+            "PT": "sndrome respiratria aguda grave, (syn.) sndrome respiratria aguda severa, SARS",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) , SARS"
+        }
+    },
+    {
+        "indice": "125",
+        "termo_en": "severe acute respiratory syndrome",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "coronavirus 2 (syn.) SARS-CoV-2 Coronavirus that causes COVID-19.",
+        "traducoes": {
+            "AR": "- -",
+            "DE": "schweres akutes respiratorisches Syndrom-Coronavirus- 2, (syn.) SARS-CoV-2",
+            "ES": "coronavirus del sndrome respiratorio agudo grave 2, (syn.) coronavirus 2 del sndrome respiratorio agudo grave, SARS-CoV-2",
+            "FR": "SARS-CoV-2",
+            "JA": ", (syn.) SARS-CoV-2",
+            "KO": "SARS CoV-2",
+            "PT": "coronavrus da sndrome respiratria aguda grave 2, (syn.) coronavrus 2 da sndrome respiratria aguda grave, SARS-CoV-2",
+            "RU": ", (syn.) SARS-CoV-2",
+            "ZH": "2, (syn.) SARS-CoV-2"
+        }
+    },
+    {
+        "indice": "126",
+        "termo_en": "social distancing",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Strategy adopted by a public body to reduce physical contact and proximity between individuals in a community in order to reduce the risk of transmission of an infectious disease, for example by instructing or advising individuals to maintain a certain distance from each other or by prohibiting gatherings of more than a certain number of people.",
+        "traducoes": {
+            "AR": "",
+            "DE": "rumliche Distanzierung",
+            "ES": "distanciamiento social",
+            "FR": "distanciation physique",
+            "JA": "",
+            "KO": "",
+            "PT": "distanciamento social",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "127",
+        "termo_en": "spike glycoprotein",
+        "sinonimo_en": "spike",
+        "categoria": "SCIE, Biochemistry",
+        "definicao": "Glycoprotein complex made up of three protomers and located on the envelope of coronaviruses, which enables the virus to bind to the receptor site of the host cells.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Spike-Glykoprotein, (syn.) Spike",
+            "ES": "glicoprotena de la espcula, (syn.) espcula",
+            "FR": "glycoprotine de spicule, (syn.) spicule",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "glicoprotena de espcula, (syn.) espcula",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "128",
+        "termo_en": "super-spreader",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Person affected by an infectious disease who transmits the disease to a significantly higher number of people than does the average infected person.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Superverbreiter",
+            "ES": "supercontagiador",
+            "FR": "super-propagateur",
+            "JA": "",
+            "KO": "",
+            "PT": "supercontagiador",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "129",
+        "termo_en": "surgical mask",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical equipment",
+        "definicao": "Half-face mask, flat and rectangular in shape, made of nonwoven fabric and comprising filtration layers, with folds and elastic bands or long straight ties that can be looped behind a person's ears or tied around a person's head, which is used to protect the wearer from sprays, splashes, and large-particle droplets and to prevent the spread of respiratory droplets from the wearer to others.",
+        "traducoes": {
+            "AR": "",
+            "DE": "chirurgischer Mund-Nasen-Schutz",
+            "ES": "mascarilla quirrgica, (syn.) barbijo quirrgico (es-AR), tapaboca quirrgico (es-CU)",
+            "FR": "masque chirurgical",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "mscara cirrgica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "130",
+        "termo_en": "suspected case",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Public health & hygiene",
+        "definicao": "Case that is compatible with a clinical case definition but there is no laboratory test confirmation or strong epidemiological evidence, e.g. the person is not a contact of a confirmed case.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Verdachtsfall",
+            "ES": "caso sospechoso",
+            "FR": "cas possible",
+            "JA": "",
+            "KO": "",
+            "PT": "caso suspeito",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "131",
+        "termo_en": "swab",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Piece of soft material used by a healthcare professional for cleaning wounds or taking samples from a person's body for testing purposes.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Tupfer",
+            "ES": "hisopo",
+            "FR": "couvillon",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "zaragatoa",
+            "RU": ", (syn.) -",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "132",
+        "termo_en": "swab test",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Method of collecting a sample of organic material for diagnostic purposes by inserting a swab into a person's body orifices, e.g. nose, mouth, etc.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Tupfertest",
+            "ES": "hisopado",
+            "FR": "couvillonnage",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "esfregao",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "133",
+        "termo_en": "symptom",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Manifestation of a disease that is perceptible to only the patient (subjective symptom) or to the patient and others (objective symptom or sign).",
+        "traducoes": {
+            "AR": "",
+            "DE": "Symptom",
+            "ES": "sntoma",
+            "FR": "symptme",
+            "JA": "",
+            "KO": "",
+            "PT": "sintoma",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "134",
+        "termo_en": "symptomatic transmission",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Mode of transmission to another person of an infectious disease from an infected person who has developed symptoms.",
+        "traducoes": {
+            "AR": "",
+            "DE": "symptomatische bertragung",
+            "ES": "trasmisin sintomtica",
+            "FR": "transmission symptomatique",
+            "JA": "",
+            "KO": "",
+            "PT": "transmisso sintomtica",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "135",
+        "termo_en": "systemic inflammatory response",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "syndrome (syn.) SIRS Condition characterized by a disproportionate inflammatory response to a variety of severe clinical phenomena, including relating to body temperature (>38C or <36C), heart rate (>90 beats per minute), respiratory rate (>20 breaths per minute or PaCO2 <32 mmHg), and white blood cell count (>12,000/cu mm, <4,000/cu mm, or >10% immature band forms).",
+        "traducoes": {
+            "AR": "",
+            "DE": "systemisches inflammatorisches Response-Syndrom, (syn.) SIRS",
+            "ES": "sndrome de respuesta inflamatoria sistmica, (syn.) SRIS",
+            "FR": "syndrome de rponse inflammatoire systmique, (syn.) SIRS",
+            "JA": ", (syn.) SIRS",
+            "KO": "",
+            "PT": "sndrome da resposta inflamatria sistmica, (syn.) SIRS",
+            "RU": ", (syn.)",
+            "ZH": ", (syn.) SIRS"
+        }
+    },
+    {
+        "indice": "136",
+        "termo_en": "telehealth",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Remote provision of clinical and non-clinical services using information and communication technologies, such as diagnosis and treatment of diseases and injuries, research and evaluation, and education of health professionals.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Telegesundheit",
+            "ES": "telesalud",
+            "FR": "tlsant",
+            "JA": "",
+            "KO": "",
+            "PT": "telessade",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "137",
+        "termo_en": "thrombosis",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Vascular disease involving the formation of thrombi inside a blood vessel, i.e. an artery or a vein, obstructing circulation.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Thrombose",
+            "ES": "trombosis",
+            "FR": "thrombose",
+            "JA": "",
+            "KO": "",
+            "PT": "trombose",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "138",
+        "termo_en": "triage",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Process of sorting patients or casualties to determine priority of need and proper place of treatment.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Triage",
+            "ES": "triaje",
+            "FR": "triage",
+            "JA": "",
+            "KO": "",
+            "PT": "triagem",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "139",
+        "termo_en": "urgent care",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Medical care",
+        "definicao": "Medical care provided for illnesses or injuries that require prompt attention but are typically not so serious as to require the services of an emergency room.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Bagatell-Notfall",
+            "ES": "atencin de urgencias menores",
+            "FR": "soins non programms",
+            "JA": "",
+            "KO": "",
+            "PT": "pronto atendimento, (syn.) servio de urgncia bsica, servio de atendimento permanente, SAP, SUB",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "140",
+        "termo_en": "urgent care facility",
+        "sinonimo_en": "urgent care center",
+        "categoria": "MEDI, Medical care",
+        "definicao": "A walk-in clinic led by qualified medical professionals, i.e. doctors and nurses, in which urgent care is delivered.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Notfallpraxis",
+            "ES": "dispensario de urgencias menores",
+            "FR": "centre de soins non programms, (syn.) service d'accueil mdical non programm",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "unidade de pronto atendimento, (syn.) centro de sade, UPA",
+            "RU": ", (syn.)",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "141",
+        "termo_en": "vaccine",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Therapeutics",
+        "definicao": "Therapeutic preparation containing an antigen, i.e. a virus or a segment of a virus or a toxin generated by bacteria, that may have been attenuated, inactivated or killed and which is able to trigger the immune response and generate immunity in an organism.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Impfstoff, (syn.) Vakzine",
+            "ES": "vacuna",
+            "FR": "vaccin",
+            "JA": "",
+            "KO": "",
+            "PT": "vacina",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "142",
+        "termo_en": "vector",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Living organism that indirectly transmits an infectious disease to a susceptible host either by carrying the infectious agent on its body (mechanical vector) or by providing an environment in which the infectious agent can reproduce and survive (biological vector).",
+        "traducoes": {
+            "AR": "",
+            "DE": "Vektor",
+            "ES": "vector",
+            "FR": "vecteur",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "vetor",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "143",
+        "termo_en": "viral load",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Amount of viral particles present in a millilitre of a fluid sample, e.g. blood.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Viruslast",
+            "ES": "carga viral",
+            "FR": "charge virale",
+            "JA": "",
+            "KO": "",
+            "PT": "carga viral",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "144",
+        "termo_en": "viral vector",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Genetics",
+        "definicao": "Virus that has been genetically modified for use in gene therapy.",
+        "traducoes": {
+            "AR": "",
+            "DE": "viraler Vektor",
+            "ES": "vector viral",
+            "FR": "vecteur viral",
+            "JA": "",
+            "KO": "",
+            "PT": "vetor viral",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "145",
+        "termo_en": "virus",
+        "sinonimo_en": "n.d.",
+        "categoria": "SCIE, Biology",
+        "definicao": "Microscopic infectious agent that can multiply only in living cells of animals, plants, or bacteria, consisting of genetic material, either DNA or RNA, housed inside a capsid.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Virus",
+            "ES": "virus",
+            "FR": "virus",
+            "JA": "",
+            "KO": "",
+            "PT": "vrus",
+            "RU": "",
+            "ZH": ""
+        }
+    },
+    {
+        "indice": "146",
+        "termo_en": "X-ray image",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Diagnostic equipment & procedures",
+        "definicao": "Image formed by the shadows of the objects inside a patient's body when x-rays travel through it and pass through an x-ray detector on the other side of the patient.",
+        "traducoes": {
+            "AR": "(syn.)",
+            "DE": "Rntgenaufnahme",
+            "ES": "radiografa",
+            "FR": "clich radiographique",
+            "JA": "",
+            "KO": "",
+            "PT": "imagem radiogrfica",
+            "RU": "",
+            "ZH": "X"
+        }
+    },
+    {
+        "indice": "147",
+        "termo_en": "zoonosis",
+        "sinonimo_en": "n.d.",
+        "categoria": "MEDI, Pathology",
+        "definicao": "Infectious disease that is transmissible under natural conditions from vertebrate animals to humans.",
+        "traducoes": {
+            "AR": "",
+            "DE": "Zoonose",
+            "ES": "zoonosis",
+            "FR": "zoonose",
+            "JA": ", (syn.)",
+            "KO": "",
+            "PT": "zoonose",
+            "RU": "",
+            "ZH": ""
+        }
+    }
+]
